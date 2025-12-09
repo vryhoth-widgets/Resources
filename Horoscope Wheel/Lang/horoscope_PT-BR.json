@@ -1,0 +1,2766 @@
+{
+  "aries": {
+    "vibe": [
+      "Apaixonado e ousado",
+      "Energético e destemido",
+      "Espontâneo e ousado",
+      "Motivado e ambicioso",
+      "Ardente e aventureiro"
+    ],
+    "emoji": [
+      "🔥",
+      "⚡",
+      "🌞",
+      "💪",
+      "🏃‍♂️"
+    ],
+    "keywords": {
+      "love_and_emotions": [
+        "afeto",
+        "conexão",
+        "coração"
+      ],
+      "career_and_success": [
+        "ambição",
+        "realização",
+        "estratégia"
+      ],
+      "spiritual_and_mystical": [
+        "clareza",
+        "despertar",
+        "orientação"
+      ],
+      "luck_and_opportunity": [
+        "fortuna",
+        "serendipidade",
+        "vantagem"
+      ],
+      "health_and_wellbeing": [
+        "energia",
+        "força",
+        "resiliência"
+      ],
+      "adventure_and_growth": [
+        "exploração",
+        "desafio",
+        "viagem"
+      ]
+    },
+    "lucky_colors": [
+      "Vermelho",
+      "Escarlate",
+      "Carmesim",
+      "Cobre",
+      "Laranja queimado"
+    ],
+    "lucky_numbers": [
+      3,
+      9,
+      17,
+      21,
+      42
+    ],
+    "daily": {
+      "tone": [
+        "Sua energia ardente ilumina todos os ambientes hoje.",
+        "A paixão orienta suas decisões; deixe que ela o guie, não o controle.",
+        "Uma onda de confiança o leva a fazer escolhas ousadas.",
+        "Sua coragem inspira ações de maneiras inesperadas.",
+        "O entusiasmo alimenta sua criatividade e suas interações."
+      ],
+      "theme": [
+        "Um desafio se torna uma oportunidade de crescimento.",
+        "As faíscas românticas podem surgir inesperadamente.",
+        "Sua determinação chama a atenção de alguém importante.",
+        "Aproveitar o momento para afirmar suas ambições.",
+        "Expressar-se com ousadia e, ao mesmo tempo, manter-se atento aos outros."
+      ],
+      "event": [
+        "Talvez você receba notícias que reacendam uma meta antiga.",
+        "Uma conversa leva a um momento decisivo.",
+        "Você encontrará motivação no lugar menos esperado.",
+        "Uma oportunidade inesperada testa sua prontidão para agir.",
+        "Uma interação pessoal aumenta sua confiança e clareza."
+      ],
+      "advice": [
+        "Aja, mas não se apresse; equilibre o impulso com a consciência.",
+        "Sua coragem inspira outras pessoas; use-a para elevar, não para dominar.",
+        "Respire fundo antes de mergulhar de cabeça; o sucesso favorece a paciência hoje.",
+        "Confie em seus instintos, mas observe antes de se comprometer totalmente.",
+        "Concentre sua energia no que é mais importante; evite distrações."
+      ]
+    },
+    "tomorrow": {
+      "tone": [
+        "Amanhã teremos a chance de refletir sobre suas conquistas recentes.",
+        "Sua energia pode precisar de algum foco suave para evitar o esgotamento.",
+        "Uma pequena mudança na abordagem pode levar a um grande progresso.",
+        "Suas interações oferecem oportunidades sutis de conexão.",
+        "O amanhã exige paciência e ação estratégica."
+      ],
+      "theme": [
+        "Refletindo e recalibrando para obter melhores resultados.",
+        "Dar pequenos passos em direção a uma meta de longo prazo.",
+        "Preparar-se para os próximos desafios com cuidado.",
+        "Perceber oportunidades que antes não eram percebidas.",
+        "Equilíbrio entre ação e atenção plena."
+      ],
+      "event": [
+        "Uma mensagem surpreendente pode dar clareza.",
+        "Um pequeno desafio pode testar sua paciência.",
+        "Surge uma nova oportunidade que exige uma reflexão cuidadosa.",
+        "Uma tarefa antiga é finalmente resolvida.",
+        "Uma conversa traz insights sobre uma meta pessoal."
+      ],
+      "advice": [
+        "Faça uma pausa antes de agir; a clareza vem da quietude.",
+        "Use sua energia com sabedoria; pequenos passos produzem grandes resultados.",
+        "Ouça com atenção antes de se comprometer com algo novo.",
+        "Fique aberto a orientações inesperadas.",
+        "Reserve um tempo para cuidar de si mesmo enquanto segue em frente."
+      ]
+    },
+    "weekly": {
+      "tone": [
+        "Seu impulso ardente se intensifica, ajudando-o a superar obstáculos com confiança.",
+        "Esta semana traz um impulso acelerado, levando-o a uma nova ação ousada.",
+        "Sua energia parece mais afiada do que o normal, alimentando movimentos decisivos.",
+        "Uma onda de paixão reacende uma meta que você abandonou temporariamente.",
+        "Você entra na semana com uma determinação feroz que dá o tom de tudo o que está por vir."
+      ],
+      "theme": [
+        "Tomar iniciativa e assumir papéis de liderança.",
+        "A coragem encontra a oportunidade no momento perfeito.",
+        "Renovação da paixão e redescoberta de ambições.",
+        "Superação de desafios por meio da determinação.",
+        "Fortalecer os limites pessoais e o respeito próprio."
+      ],
+      "event": [
+        "Uma conversa desencadeia um poderoso avanço em seus planos.",
+        "Alguém reconhece seu trabalho árduo e oferece apoio inesperado.",
+        "Você se depara com uma solução que estava procurando.",
+        "Um projeto paralisado de repente ganha um novo impulso.",
+        "Uma oportunidade chega mais rápido do que você esperava; esteja pronto."
+      ],
+      "advice": [
+        "Lidere com paixão, mas mantenha seu temperamento sob controle.",
+        "Confie em seus instintos, mas não apresse o processo.",
+        "Sua coragem é uma ferramenta; use-a com sabedoria, não em batalhas menores.",
+        "Mantenha-se aberto ao trabalho em equipe; seu poder cresce com os aliados.",
+        "Canalize sua energia com sabedoria; pequenos passos geram grandes vitórias."
+      ]
+    },
+    "monthly": {
+      "tone": [
+        "Este mês desperta uma nova motivação e um senso renovado de propósito.",
+        "Você entra no mês com entusiasmo ousado e energia imparável.",
+        "Uma determinação ardente alimenta seu desejo de fazer progressos significativos.",
+        "Sua confiança aumenta neste mês, levando-o a almejar mais do que antes.",
+        "Uma forte mudança interna permite que você assuma o controle de suas metas."
+      ],
+      "theme": [
+        "Novos começos e avanços pessoais.",
+        "Ambição tomando forma por meio de esforço consistente.",
+        "Crescimento em projetos de paixão e buscas criativas.",
+        "Criar impulso em metas de longo prazo.",
+        "Fortalecimento da identidade e recuperação do poder pessoal."
+      ],
+      "event": [
+        "Uma meta de longo prazo finalmente avança de forma significativa.",
+        "Você recebe uma oportunidade que valida seu trabalho árduo.",
+        "Um relacionamento ou parceria se aprofunda inesperadamente.",
+        "Você se reconecta com algo que já amou, mas que deixou de lado.",
+        "Um encontro casual muda radicalmente sua perspectiva."
+      ],
+      "advice": [
+        "Mantenha-se consistente; seu esforço neste mês define o tom para o resto do ano.",
+        "Deixe que sua paixão o guie, mas lembre-se de manter o ritmo.",
+        "Confie que você está pronto para o crescimento que está buscando.",
+        "Evite se esgotar; até mesmo os signos de fogo precisam de um descanso estratégico.",
+        "Fique aberto ao apoio; nem todo sucesso deve ser uma missão individual."
+      ]
+    },
+    "annual": {
+      "tone": [
+        "Este ano marca uma poderosa transformação na forma como você busca o sucesso e o amor.",
+        "Começa uma nova e ousada era, repleta de avanços e determinação renovada.",
+        "Sua natureza ardente se torna uma força orientadora que remodela seu caminho para melhor.",
+        "Um ano de coragem, clareza e expansão da confiança pessoal o aguarda.",
+        "Você entra em um ciclo de crescimento que amplia sua liderança e ambição."
+      ],
+      "theme": [
+        "Reinvenção por meio de escolhas ousadas e ações disciplinadas.",
+        "Maturidade emocional aliada a uma ambição destemida.",
+        "Grande progresso nas metas de longo prazo e na identidade pessoal.",
+        "Assumir papéis de liderança nos relacionamentos e na carreira.",
+        "Maior autoconsciência e clareza sobre a direção de sua vida."
+      ],
+      "event": [
+        "Uma conquista decisiva estabelece uma nova base para seu futuro.",
+        "Surge uma grande oportunidade que acelera suas metas de longo prazo.",
+        "Um relacionamento - pessoal ou profissional - se transforma radicalmente.",
+        "Você supera um medo ou uma limitação de longa data, abrindo novos caminhos.",
+        "O reconhecimento inesperado aumenta sua confiança e seu status."
+      ],
+      "advice": [
+        "Confie em seus instintos, mas oriente-os com paciência e estratégia.",
+        "Mantenha-se flexível; seu maior crescimento vem da adaptação, não da resistência.",
+        "Deixe a coragem liderar, mas deixe a sabedoria decidir o ritmo.",
+        "Invista energia no que realmente importa; as distrações roubam seu fogo.",
+        "Construa com firmeza; as vitórias mais fortes vêm da consistência."
+      ]
+    }
+  },
+  "taurus": {
+    "vibe": [
+      "Fundamentado e reconfortante",
+      "Paciente e estável",
+      "Leal e sensual",
+      "Confiável e atencioso",
+      "Calmo e persistente"
+    ],
+    "emoji": [
+      "🌿",
+      "🍀",
+      "🌹",
+      "💎",
+      "🪙"
+    ],
+    "keywords": {
+      "love_and_emotions": [
+        "devoção",
+        "harmonia",
+        "companheirismo"
+      ],
+      "career_and_success": [
+        "foco",
+        "crescimento",
+        "planejamento"
+      ],
+      "spiritual_and_mystical": [
+        "percepção",
+        "equilíbrio",
+        "alinhamento"
+      ],
+      "luck_and_opportunity": [
+        "prosperidade",
+        "prêmio",
+        "ganho"
+      ],
+      "health_and_wellbeing": [
+        "bem-estar",
+        "clareza",
+        "recuperação"
+      ],
+      "adventure_and_growth": [
+        "aprendizado",
+        "adaptação",
+        "abertura"
+      ]
+    },
+    "lucky_colors": [
+      "Verde esmeralda",
+      "Verde floresta",
+      "Rosa Pink",
+      "Marfim",
+      "Marrom chocolate"
+    ],
+    "lucky_numbers": [
+      2,
+      6,
+      15,
+      24,
+      39
+    ],
+    "daily": {
+      "tone": [
+        "Sua paciência compensa à medida que o dia se desenrola com um progresso tranquilo.",
+        "Você encontra conforto em rotinas familiares; elas trazem uma alegria sutil.",
+        "A energia de hoje recompensa ações firmes e ponderadas.",
+        "Sua energia constante proporciona calma em meio ao caos.",
+        "A paciência orienta suas escolhas hoje.",
+        "Uma abordagem fundamentada traz clareza e foco."
+      ],
+      "theme": [
+        "Realizações práticas e segurança emocional.",
+        "Amor expresso por meio de estabilidade e cuidado.",
+        "Pequenas vitórias que geram paz a longo prazo.",
+        "Dedicar tempo para cultivar relacionamentos.",
+        "Medidas práticas trazem grandes resultados.",
+        "Sua dedicação é reconhecida por outras pessoas."
+      ],
+      "event": [
+        "Uma mensagem ou um presente o lembra de seu valor.",
+        "Uma conversa tranquila aprofunda um relacionamento.",
+        "As questões financeiras caminham para a estabilidade.",
+        "Você pode receber notícias que confirmem o progresso.",
+        "Uma pequena oportunidade traz benefícios inesperados.",
+        "Uma ação atenciosa desperta a apreciação de alguém importante."
+      ],
+      "advice": [
+        "Mova-se em seu próprio ritmo; devagar e sempre vence essa corrida.",
+        "Não confunda silêncio com ausência; seus esforços estão sendo vistos.",
+        "Aprecie o que você tem antes de correr atrás do que está por vir.",
+        "Mantenha-se firme; pequenos passos levam a grandes resultados.",
+        "Confie em sua abordagem constante em vez de movimentos bruscos.",
+        "Equilibre trabalho e descanso para obter os melhores resultados."
+      ]
+    },
+    "tomorrow": {
+      "tone": [
+        "O dia de amanhã é um convite à reflexão e ao progresso consciente.",
+        "Sua energia pode se beneficiar de um ritmo cuidadoso para manter o foco.",
+        "Um pequeno ajuste na abordagem pode gerar resultados significativos.",
+        "As oportunidades podem aparecer sutilmente por meio de interações tranquilas.",
+        "A paciência e a atenção guiarão seu dia."
+      ],
+      "theme": [
+        "Reavaliação de prioridades para estabilidade de longo prazo.",
+        "Dar passos pequenos e deliberados em direção a uma meta.",
+        "Preparar-se cuidadosamente para os próximos desafios.",
+        "Perceber oportunidades que antes não eram percebidas.",
+        "Equilíbrio entre trabalho, relacionamentos e cuidados pessoais."
+      ],
+      "event": [
+        "Uma pequena conversa traz clareza sobre um assunto pessoal.",
+        "Uma mensagem ou um gesto discreto traz tranquilidade.",
+        "Talvez você descubra uma pequena oportunidade que apoie seus planos.",
+        "Uma tarefa pendente é concluída sem problemas.",
+        "A reflexão sobre as ações recentes dá uma visão para o futuro."
+      ],
+      "advice": [
+        "Faça uma pausa e planeje antes de agir; passos ponderados geram resultados.",
+        "Use sua energia com sabedoria; o progresso lento e constante compensa.",
+        "Ouça com atenção antes de tomar decisões.",
+        "Fique aberto à orientação sutil de outras pessoas.",
+        "Cuide de si mesmo enquanto avança em suas metas."
+      ]
+    },
+    "weekly": {
+      "tone": [
+        "Esta semana o situa na realidade; o progresso pode ser lento, mas sólido.",
+        "A paciência é sua arma secreta, pois as coisas se alinham naturalmente.",
+        "Esta semana recompensa a persistência e o planejamento cuidadoso.",
+        "Sua determinação se fortalece, ajudando-o a superar obstáculos.",
+        "Uma energia calma e constante o impulsiona para frente.",
+        "Você encontra satisfação no progresso cuidadoso e deliberado.",
+        "A consistência traz oportunidades inesperadas para você."
+      ],
+      "theme": [
+        "Crescimento financeiro e segurança emocional.",
+        "Nutrir laços importantes por meio da honestidade.",
+        "Construindo estabilidade e segurança.",
+        "Progresso lento, mas sólido.",
+        "Valorizar a paciência em vez da pressa.",
+        "Fortalecimento dos laços com seus entes queridos.",
+        "Manter o foco em meio às distrações."
+      ],
+      "event": [
+        "Um plano finalmente se estabiliza depois de muito esforço.",
+        "Alguém expressa gratidão por sua confiabilidade.",
+        "Um projeto que você cultivou começa a dar resultados.",
+        "Alguém admira sua adaptabilidade e criatividade.",
+        "Uma oportunidade inesperada recompensa sua dedicação.",
+        "Uma decisão cuidadosa evita possíveis problemas.",
+        "Um pequeno gesto leva a um reconhecimento significativo."
+      ],
+      "advice": [
+        "Evite resistir à mudança; às vezes, o conforto esconde a oportunidade.",
+        "Confie no processo; suas raízes estão crescendo mesmo que você não consiga ver.",
+        "Seja paciente; o progresso é constante, mas confiável.",
+        "Confie em seus instintos, mas mova-se deliberadamente.",
+        "Use sua estabilidade para orientar os outros.",
+        "Não se apresse; o crescimento lento é duradouro.",
+        "Mantenha-se consistente mesmo que os resultados pareçam lentos."
+      ]
+    },
+    "monthly": {
+      "tone": [
+        "Este mês recompensa sua persistência com resultados tangíveis.",
+        "Este mês traz um crescimento constante em todas as áreas da vida.",
+        "Você está em um período de progresso prático e equilíbrio.",
+        "Sua persistência é recompensada com resultados tangíveis.",
+        "Um foco calmo melhora o trabalho e a vida pessoal.",
+        "A harmonia e a estabilidade são suas energias orientadoras."
+      ],
+      "theme": [
+        "Avanço na carreira e maturidade emocional.",
+        "Crescimento pessoal por meio de esforço constante.",
+        "Criação de segurança de longo prazo.",
+        "Cultivar relacionamentos importantes.",
+        "Manter o equilíbrio na vida cotidiana.",
+        "Valorizar a paciência e a persistência."
+      ],
+      "event": [
+        "Um novo projeto fortalece sua confiança.",
+        "Um projeto finalmente mostra um progresso há muito esperado.",
+        "O reconhecimento vem pelo esforço consistente.",
+        "Um relacionamento se aprofunda por meio da atenção atenciosa.",
+        "Uma oportunidade financeira cresce de forma constante.",
+        "Uma decisão tomada com cuidado se mostra sábia."
+      ],
+      "advice": [
+        "Proteja sua energia; nem toda oferta merece sua estabilidade.",
+        "Mantenha a consistência; seu esforço se acumula com o tempo.",
+        "Concentre-se no equilíbrio e no crescimento constante.",
+        "Cultive os relacionamentos com cuidado.",
+        "Confie no progresso lento e deliberado.",
+        "Evite atalhos; resultados duradouros exigem paciência."
+      ]
+    },
+    "annual": {
+      "tone": [
+        "Este ano marca um crescimento constante e uma evolução emocional.",
+        "Este ano enfatiza o crescimento por meio da persistência e da paciência.",
+        "Uma abordagem estável e fundamentada traz conquistas duradouras.",
+        "Sua confiabilidade se torna seu maior ativo este ano.",
+        "Você é capacitado por escolhas firmes e ponderadas.",
+        "A consistência e a resiliência definem seu ano."
+      ],
+      "theme": [
+        "Construir bases mais sólidas na carreira, no amor e no propósito.",
+        "Estabilidade de longo prazo e crescimento pessoal.",
+        "Fortalecimento de relacionamentos e bases.",
+        "Atingir metas por meio de planejamento cuidadoso.",
+        "Ganhar respeito e reconhecimento pela confiabilidade.",
+        "Equilíbrio entre ambição e paciência."
+      ],
+      "event": [
+        "Você descobre a paz ao assumir compromissos de longo prazo.",
+        "Os principais marcos são alcançados devido ao esforço consistente.",
+        "Uma oportunidade importante recompensa sua paciência.",
+        "Um relacionamento ou parceria se fortalece significativamente.",
+        "O planejamento de longo prazo resulta em um progresso notável.",
+        "O reconhecimento vem pela dedicação constante."
+      ],
+      "advice": [
+        "Confie na beleza da consistência; seu sucesso é um florescimento lento.",
+        "Confie em sua paciência e consistência.",
+        "Concentre-se no progresso constante e não em resultados imediatos.",
+        "Investir energia em relacionamentos e metas duradouras.",
+        "Mantenha o equilíbrio e o autocuidado durante todo o ano.",
+        "Deixe que o esforço lento e deliberado guie suas maiores conquistas."
+      ]
+    }
+  },
+  "gemini": {
+    "vibe": [
+      "Curioso e expressivo",
+      "Inteligente e comunicativo",
+      "Adaptável e versátil",
+      "Energético e brincalhão",
+      "Inteligente e encantador"
+    ],
+    "emoji": [
+      "💨",
+      "✨",
+      "🌟",
+      "🦋",
+      "💛"
+    ],
+    "keywords": {
+      "love_and_emotions": [
+        "conexão",
+        "compreensão",
+        "empatia"
+      ],
+      "career_and_success": [
+        "inovação",
+        "estratégia",
+        "progresso"
+      ],
+      "spiritual_and_mystical": [
+        "intuição",
+        "reflexão",
+        "clareza"
+      ],
+      "luck_and_opportunity": [
+        "oportunidade",
+        "surpresa",
+        "inovador"
+      ],
+      "health_and_wellbeing": [
+        "equilíbrio",
+        "energia",
+        "atenção plena"
+      ],
+      "adventure_and_growth": [
+        "curiosidade",
+        "exploração",
+        "liberdade"
+      ]
+    },
+    "lucky_colors": [
+      "Amarelo",
+      "Azul celeste",
+      "Prata",
+      "Verde menta",
+      "Lavanda"
+    ],
+    "lucky_numbers": [
+      5,
+      7,
+      12,
+      23,
+      41
+    ],
+    "daily": {
+      "tone": [
+        "Sua mente está repleta de novas ideias; aceite-as com curiosidade.",
+        "As conversas abrem portas para possibilidades inesperadas.",
+        "Você se sente mais leve hoje; o riso atrairá a boa sorte.",
+        "Sua energia viva desperta curiosidade e envolvimento.",
+        "O raciocínio rápido ajuda você a enfrentar desafios inesperados.",
+        "Sua natureza brincalhona atrai interações interessantes."
+      ],
+      "theme": [
+        "Conexões sociais e solução inteligente de problemas.",
+        "Fagulhas criativas em sua comunicação ou arte.",
+        "Um plano espontâneo que leva à alegria.",
+        "Novas ideias trazem inspiração.",
+        "As conexões geram oportunidades inesperadas.",
+        "A adaptabilidade é seu superpoder hoje."
+      ],
+      "event": [
+        "Alguém entra em contato com você com notícias ou uma oportunidade secreta.",
+        "Uma conversa casual leva a algo significativo.",
+        "Você se depara com uma ideia que vale a pena seguir.",
+        "Uma conversa abre um novo caminho.",
+        "Um pequeno desafio traz soluções criativas.",
+        "Você descobre informações que mudam a perspectiva."
+      ],
+      "advice": [
+        "Ouça tanto quanto fala; o insight se esconde no silêncio.",
+        "Sua natureza dupla é uma dádiva; equilibre a curiosidade com o foco.",
+        "Deixe o humor aliviar a tensão; nem toda pergunta precisa de uma resposta.",
+        "Mantenha-se flexível e curioso.",
+        "Aceite novas ideias sem medo.",
+        "Deixe que a comunicação guie suas ações."
+      ]
+    },
+    "tomorrow": {
+      "tone": [
+        "O amanhã traz novas percepções e novas oportunidades de conexão.",
+        "Sua energia pode exigir foco para evitar pensamentos dispersos.",
+        "Pequenos ajustes em sua abordagem podem levar a grandes resultados.",
+        "Interações sutis podem oferecer oportunidades significativas.",
+        "A curiosidade e a atenção guiam seu dia."
+      ],
+      "theme": [
+        "Reavaliação de ideias para maior clareza e progresso.",
+        "Dar passos pequenos e deliberados em direção às metas.",
+        "Preparar-se cuidadosamente para os desafios futuros.",
+        "Perceber oportunidades antes ignoradas.",
+        "Equilíbrio entre trabalho, aprendizado e conexões pessoais."
+      ],
+      "event": [
+        "Uma pequena conversa esclarece um assunto pessoal.",
+        "Uma mensagem ou um gesto traz tranquilidade.",
+        "Surge uma pequena oportunidade que apoia seus planos.",
+        "Uma tarefa pendente é concluída sem problemas.",
+        "A reflexão sobre as interações recentes dá uma visão do futuro."
+      ],
+      "advice": [
+        "Faça uma pausa antes de agir; passos ponderados geram resultados.",
+        "Use sua energia com sabedoria; pequenos progressos ainda são progressos.",
+        "Ouça com atenção antes de tomar decisões.",
+        "Fique aberto à orientação sutil de outras pessoas.",
+        "Reserve um tempo para si mesmo enquanto avança em suas metas."
+      ]
+    },
+    "weekly": {
+      "tone": [
+        "Nesta semana, sua perspicácia e seu charme abrem novos caminhos.",
+        "A clareza mental ajuda você a tomar uma decisão que está atrasada.",
+        "Sua energia impulsiona conexões sociais e novas ideias.",
+        "Uma mente curiosa descobre oportunidades.",
+        "O raciocínio rápido ajuda você a se manter à frente dos desafios.",
+        "Sua inteligência atrai a colaboração.",
+        "A diversão e a adaptabilidade abrem novos caminhos."
+      ],
+      "theme": [
+        "Colaboração e reinvenção pessoal.",
+        "Novas conexões por meio de interesses compartilhados.",
+        "Aprendizado e networking.",
+        "Adaptação e criatividade.",
+        "Flexibilidade nos desafios.",
+        "Comunicação e clareza.",
+        "A versatilidade traz vantagens."
+      ],
+      "event": [
+        "Você descobre um projeto que reacende sua motivação.",
+        "Alguém admira sua adaptabilidade e criatividade.",
+        "Uma discussão desencadeia um novo projeto.",
+        "Uma chance inesperada surge por meio do networking.",
+        "As informações obtidas ajudam a resolver um problema.",
+        "A interação social leva ao insight.",
+        "Novas conexões trazem apoio e ideias."
+      ],
+      "advice": [
+        "Não pense demais em cada mensagem; confie em seus instintos.",
+        "A flexibilidade vence a teimosia nesta semana.",
+        "Mantenha-se mentalmente ágil.",
+        "Aproveite as oportunidades de aprendizado.",
+        "Comunique-se de forma clara e aberta.",
+        "Adaptar-se às circunstâncias.",
+        "Continue explorando ideias."
+      ]
+    },
+    "monthly": {
+      "tone": [
+        "Um mês movimentado, repleto de insights e novos começos.",
+        "Esse mês incentiva o crescimento intelectual e o engajamento social.",
+        "A curiosidade alimenta a criatividade e a solução de problemas.",
+        "A adaptabilidade permite que você aproveite as oportunidades.",
+        "Sua inteligência aumenta a colaboração e a produtividade.",
+        "A flexibilidade traz vantagens profissionais e pessoais."
+      ],
+      "theme": [
+        "Expansão da carreira, viagens e descobertas sociais.",
+        "Aprendizado e desenvolvimento pessoal.",
+        "Solução criativa de problemas.",
+        "Networking e relacionamentos.",
+        "Sucesso orientado pela comunicação.",
+        "Adaptação à mudança."
+      ],
+      "event": [
+        "Um novo contato pode evoluir para algo significativo.",
+        "Uma nova oportunidade aparece por meio de uma conexão social.",
+        "A colaboração resulta em avanços criativos.",
+        "As informações recebidas geram insights.",
+        "Sua flexibilidade traz benefícios inesperados.",
+        "Uma ideia lúdica se transforma em um plano concreto."
+      ],
+      "advice": [
+        "Mantenha sua curiosidade viva, mas evite dispersar seu foco.",
+        "Permaneça aberto ao aprendizado.",
+        "Confie em sua capacidade de adaptação.",
+        "Comunique-se com clareza.",
+        "Aproveite as oportunidades de colaboração.",
+        "Siga a curiosidade com foco."
+      ]
+    },
+    "annual": {
+      "tone": [
+        "Este ano fortalece sua comunicação e autoexpressão.",
+        "Este ano enfatiza o crescimento intelectual e o networking.",
+        "A curiosidade e a adaptabilidade abrem portas.",
+        "Suas habilidades de comunicação atraem oportunidades.",
+        "A flexibilidade leva a ganhos de longo prazo.",
+        "Brincadeiras e inteligência definem seu ano."
+      ],
+      "theme": [
+        "Aprendizado, adaptabilidade e consciência emocional.",
+        "Aprendizado e adaptabilidade.",
+        "Crescimento criativo e insight.",
+        "Trabalho em rede e colaboração.",
+        "Realização orientada pela comunicação.",
+        "Abordagens flexíveis trazem sucesso."
+      ],
+      "event": [
+        "As parcerias crescem quando você adota uma conexão autêntica.",
+        "As principais oportunidades surgem das conexões.",
+        "Uma nova ideia muda seu caminho.",
+        "A colaboração leva ao avanço.",
+        "A adaptação supera os obstáculos.",
+        "O reconhecimento vem pela criatividade e pela percepção."
+      ],
+      "advice": [
+        "Use suas palavras para edificar, não para impressionar; a verdade é o seu poder.",
+        "Mantenha-se curioso e flexível.",
+        "Confie em suas habilidades de comunicação.",
+        "Aproveite as oportunidades de aprendizado.",
+        "Adaptar-se e inovar.",
+        "Use as conexões sociais com sabedoria."
+      ]
+    }
+  },
+  "cancer": {
+    "vibe": [
+      "Nutritivo e intuitivo",
+      "Sensível e empático",
+      "Protetora e atenciosa",
+      "Imaginativo e reflexivo",
+      "Solidário e leal"
+    ],
+    "emoji": [
+      "🌙",
+      "🕊️",
+      "💖",
+      "🌊",
+      "🩷"
+    ],
+    "keywords": {
+      "love_and_emotions": [
+        "cuidados",
+        "intimidade",
+        "confiança"
+      ],
+      "career_and_success": [
+        "foco",
+        "crescimento",
+        "planejamento"
+      ],
+      "spiritual_and_mystical": [
+        "intuição",
+        "reflexão",
+        "alinhamento"
+      ],
+      "luck_and_opportunity": [
+        "fortuna",
+        "serendipidade",
+        "benefício"
+      ],
+      "health_and_wellbeing": [
+        "bem-estar",
+        "equilíbrio",
+        "paz"
+      ],
+      "adventure_and_growth": [
+        "aprendizado",
+        "curiosidade",
+        "abertura"
+      ]
+    },
+    "lucky_colors": [
+      "Branco pérola",
+      "Espuma do mar",
+      "Prata",
+      "Azul suave",
+      "Creme"
+    ],
+    "lucky_numbers": [
+      2,
+      8,
+      14,
+      26,
+      33
+    ],
+    "daily": {
+      "tone": [
+        "As emoções são profundas hoje; ouça o que seu coração sussurra.",
+        "Sua intuição é aguçada; confie nos sinais sutis ao seu redor.",
+        "Um momento de reflexão tranquila traz conforto e respostas.",
+        "Sua intuição orienta as interações hoje.",
+        "A consciência emocional ajuda a enfrentar os desafios.",
+        "A energia nutritiva envolve você."
+      ],
+      "theme": [
+        "Lar, equilíbrio emocional e conversas sinceras.",
+        "Atos de bondade que restauram seu espírito.",
+        "Uma reconexão que aquece seu coração.",
+        "Cuidar de seus entes queridos.",
+        "Refletir sobre metas pessoais.",
+        "A conexão emocional é destacada."
+      ],
+      "event": [
+        "Uma mensagem ou lembrança desperta nostalgia e clareza.",
+        "Alguém próximo se abre emocionalmente.",
+        "Um pequeno gesto restaura sua fé nos outros.",
+        "Uma questão familiar traz clareza.",
+        "Uma conversa de apoio o eleva.",
+        "Uma percepção emocional orienta uma decisão."
+      ],
+      "advice": [
+        "Proteja sua paz; nem toda emoção merece uma resposta.",
+        "Demonstre cuidado sem perder os limites.",
+        "Deixe que a vulnerabilidade seja sua força hoje.",
+        "Confie em sua intuição.",
+        "Equilibrar o cuidado com os outros e o autocuidado.",
+        "Reserve um tempo para refletir antes de agir."
+      ]
+    },
+    "tomorrow": {
+      "tone": [
+        "O amanhã incentiva a reflexão e a atenção emocional.",
+        "Sua intuição pode revelar oportunidades sutis.",
+        "Pequenos gestos ou conversas têm mais significado.",
+        "A energia é suave; decisões ponderadas levam ao progresso.",
+        "A consciência emocional orienta suas interações."
+      ],
+      "theme": [
+        "Analisar experiências recentes para obter clareza.",
+        "Dar passos pequenos e deliberados em direção a metas pessoais.",
+        "Apoiar os outros e manter o equilíbrio.",
+        "Perceber oportunidades antes ignoradas.",
+        "Alinhamento das ações com a intuição e os sentimentos."
+      ],
+      "event": [
+        "Uma conversa sem importância fornece informações sobre um assunto pessoal.",
+        "Uma mensagem ou um gesto traz tranquilidade.",
+        "Uma pequena oportunidade ajuda a avançar em uma meta.",
+        "A reflexão resolve as dúvidas persistentes.",
+        "O apoio sutil de alguém próximo pode ser útil."
+      ],
+      "advice": [
+        "Faça uma pausa e considere seus sentimentos antes de responder.",
+        "Use a energia suave para orientar suas decisões.",
+        "Fique atento às orientações sutis dos outros.",
+        "Equilibrar o cuidado com os outros e o autocuidado.",
+        "Reflita enquanto avança."
+      ]
+    },
+    "weekly": {
+      "tone": [
+        "Esta semana incentiva a cura e a renovação emocional.",
+        "Você está aprendendo a dar sem se esgotar.",
+        "Esta semana enfatiza o equilíbrio emocional e a reflexão.",
+        "Os instintos de proteção orientam suas escolhas.",
+        "A empatia fortalece os relacionamentos.",
+        "O insight intuitivo ajuda a enfrentar os desafios.",
+        "Uma presença estimulante atrai o apoio de outras pessoas."
+      ],
+      "theme": [
+        "Conexões familiares, perdão e crescimento emocional.",
+        "Estabilidade pessoal por meio da empatia e da verdade.",
+        "Família e relacionamentos íntimos.",
+        "Reflexão pessoal.",
+        "Consciência emocional.",
+        "Segurança e estabilidade.",
+        "Cuidar de si mesmo e dos outros."
+      ],
+      "event": [
+        "Um ente querido se aproxima depois da distância.",
+        "Você encontra o fechamento de uma situação não resolvida.",
+        "Uma conversa emocional resolve a tensão persistente.",
+        "Uma pessoa solidária oferece orientação.",
+        "A reflexão leva a uma importante percepção pessoal.",
+        "Surge uma oportunidade relacionada à família.",
+        "Sua sensibilidade revela problemas ocultos."
+      ],
+      "advice": [
+        "Fale a sua verdade com delicadeza; a honestidade pode curar.",
+        "Deixe de lado a culpa; você fez o melhor que pôde.",
+        "Ouça sua voz interior.",
+        "Mantenha-se emocionalmente firme.",
+        "Manter o equilíbrio entre si mesmo e os outros.",
+        "Cultivar relacionamentos importantes.",
+        "Confie no processo."
+      ]
+    },
+    "monthly": {
+      "tone": [
+        "Este mês o lembra da importância do autocuidado e do equilíbrio.",
+        "Este mês traz uma percepção emocional mais profunda.",
+        "Você se sente mais sintonizado com suas necessidades e com as dos outros.",
+        "A reflexão e o cuidado guiam suas ações.",
+        "A energia nutritiva apóia tanto o trabalho quanto a vida pessoal.",
+        "O equilíbrio traz clareza."
+      ],
+      "theme": [
+        "Cura, criatividade e renovação emocional.",
+        "Crescimento emocional.",
+        "Fortalecimento de vínculos.",
+        "Autorreflexão e cuidado.",
+        "Segurança e estabilidade.",
+        "Decisões baseadas na intuição."
+      ],
+      "event": [
+        "Uma nova fonte de inspiração alimenta sua motivação.",
+        "Surge uma oportunidade de apoiar alguém importante.",
+        "O insight emocional ajuda a tomar uma decisão importante.",
+        "Um relacionamento se fortalece inesperadamente.",
+        "A reflexão leva à clareza em questões pessoais.",
+        "A vida familiar ou doméstica apresenta oportunidades de crescimento."
+      ],
+      "advice": [
+        "Descanso não significa fraqueza; é como você realinha sua alma.",
+        "Confie em seus sentimentos.",
+        "Priorizar o equilíbrio.",
+        "Cultive relacionamentos com atenção.",
+        "Ouça a intuição.",
+        "Reserve um tempo para refletir."
+      ]
+    },
+    "annual": {
+      "tone": [
+        "Este ano estimula a transformação por meio da sabedoria emocional.",
+        "Este ano enfatiza a maturidade emocional e a segurança.",
+        "A intuição orienta as principais decisões.",
+        "As energias protetoras e carinhosas o fortalecem.",
+        "O crescimento pessoal está intimamente ligado aos relacionamentos.",
+        "Uma abordagem estimulante traz recompensas de longo prazo."
+      ],
+      "theme": [
+        "Cura profunda, amor e fé redescoberta em seu caminho.",
+        "Equilíbrio emocional.",
+        "Fortalecimento do relacionamento.",
+        "Reflexão pessoal.",
+        "Segurança e estabilidade.",
+        "Crescimento guiado pela intuição."
+      ],
+      "event": [
+        "Você se liberta de velhos medos e adota a maturidade emocional.",
+        "Ocorre um marco pessoal ou familiar significativo.",
+        "Um relacionamento importante se transforma positivamente.",
+        "As percepções obtidas por meio da reflexão orientam as ações futuras.",
+        "Surgem oportunidades de apoio e cuidado.",
+        "A clareza emocional leva a um progresso duradouro."
+      ],
+      "advice": [
+        "Proteja seu coração, mas permita que ele permaneça aberto ao crescimento e à graça.",
+        "Confie em sua intuição.",
+        "Concentre-se em nutrir a si mesmo e aos outros.",
+        "Equilibrar as necessidades emocionais.",
+        "Investir em relacionamentos.",
+        "Mantenha-se firme por meio da reflexão."
+      ]
+    }
+  },
+  "leo": {
+    "vibe": [
+      "Radiante e confiante",
+      "Ousado e generoso",
+      "Criativo e magnético",
+      "Coração caloroso e brincalhão",
+      "Carismático e aventureiro"
+    ],
+    "emoji": [
+      "🌞",
+      "✨",
+      "💫",
+      "🦁",
+      "🔥"
+    ],
+    "keywords": {
+      "love_and_emotions": [
+        "paixão",
+        "romance",
+        "conexão"
+      ],
+      "career_and_success": [
+        "ambição",
+        "liderança",
+        "crescimento"
+      ],
+      "spiritual_and_mystical": [
+        "intuição",
+        "alinhamento",
+        "transformação"
+      ],
+      "luck_and_opportunity": [
+        "fortuna",
+        "abundância",
+        "inovador"
+      ],
+      "health_and_wellbeing": [
+        "vitalidade",
+        "energia",
+        "equilíbrio"
+      ],
+      "adventure_and_growth": [
+        "exploração",
+        "criatividade",
+        "liberdade"
+      ]
+    },
+    "lucky_colors": [
+      "Ouro",
+      "Laranja Pôr do Sol",
+      "Âmbar",
+      "Royal Purple",
+      "Calêndula"
+    ],
+    "lucky_numbers": [
+      1,
+      9,
+      19,
+      27,
+      36
+    ],
+    "daily": {
+      "tone": [
+        "Seu charme natural brilha intensamente hoje; os outros são atraídos por sua luz.",
+        "A confiança flui sem esforço; é seu dia de dar o exemplo.",
+        "A criatividade alimenta seu humor, transformando momentos comuns em mágicos.",
+        "Seu carisma abre portas de maneiras inesperadas.",
+        "Sua confiança natural orienta as interações.",
+        "A criatividade inspira suas decisões de hoje."
+      ],
+      "theme": [
+        "Liderança, autoexpressão e paixão criativa.",
+        "Reconhecimento por seu esforço ou um elogio sincero.",
+        "Oportunidades para se destacar ou inspirar outras pessoas.",
+        "Autoexpressão em ambientes pessoais ou profissionais.",
+        "Liderança e iniciativa.",
+        "As conexões românticas geram alegria."
+      ],
+      "event": [
+        "Alguém admira sua coragem e carinho.",
+        "Você recebe um sinal confirmando que está no caminho certo.",
+        "Um projeto que você cultivou finalmente ganha atenção.",
+        "O reconhecimento vem por seus esforços.",
+        "Uma ideia ousada ganha força.",
+        "Uma conexão calorosa fortalece o relacionamento."
+      ],
+      "advice": [
+        "Brilhe sem ofuscar os outros; a verdadeira confiança eleva.",
+        "Lidere com bondade, não com orgulho.",
+        "Não tenha medo da visibilidade; o mundo precisa de sua luz.",
+        "Confie em suas habilidades.",
+        "Expresse-se abertamente.",
+        "Equilibre o orgulho com a humildade."
+      ]
+    },
+    "tomorrow": {
+      "tone": [
+        "O amanhã traz uma nova oportunidade de expressar sua criatividade.",
+        "A confiança e a cordialidade atrairão atenção positiva.",
+        "A energia é alta; abrace a liderança com cuidado.",
+        "Seu carisma pode abrir portas inesperadas.",
+        "Os momentos de autoexpressão orientam suas interações."
+      ],
+      "theme": [
+        "Solução criativa de problemas e inspiração.",
+        "Oportunidades de reconhecimento ou liderança.",
+        "Expressão pessoal e conexões alegres.",
+        "Enfrentar desafios com charme.",
+        "Expandir a influência por meio da autenticidade."
+      ],
+      "event": [
+        "Um pequeno projeto criativo ganha força.",
+        "Alguém faz elogios ou agradecimentos.",
+        "Uma conexão pessoal se aprofunda inesperadamente.",
+        "Aparece uma chance de mostrar seus talentos.",
+        "O apoio inesperado impulsiona seus esforços."
+      ],
+      "advice": [
+        "Confie em seus instintos; deixe a confiança guiar suas ações.",
+        "Equilibre visibilidade com humildade.",
+        "Aproveite as oportunidades sem hesitação.",
+        "Use sua cordialidade para promover a colaboração.",
+        "Mantenha o foco em metas significativas."
+      ]
+    },
+    "weekly": {
+      "tone": [
+        "Esta semana traz inspiração e um senso renovado de propósito.",
+        "O impulso aumenta; o universo recompensa sua coragem.",
+        "Esta semana destaca sua liderança e carisma.",
+        "A confiança atrai as pessoas para sua visão.",
+        "A energia criativa atinge seu pico hoje.",
+        "A generosidade fortalece os vínculos.",
+        "Decisões ousadas trazem oportunidades."
+      ],
+      "theme": [
+        "Descobertas criativas e clareza emocional.",
+        "Força por meio de colaboração e liderança.",
+        "Liderar com o coração.",
+        "Solução criativa de problemas.",
+        "Aproveitar as oportunidades.",
+        "Construir reconhecimento.",
+        "Fortalecimento das conexões."
+      ],
+      "event": [
+        "Um mentor ou amigo reacende sua motivação.",
+        "Você encontra harmonia entre ambição e descanso.",
+        "Surge uma oportunidade de liderança.",
+        "Sua criatividade é reconhecida.",
+        "Um relacionamento se aprofunda de forma positiva.",
+        "O apoio inesperado impulsiona seus projetos.",
+        "Uma chance de brilhar aparece."
+      ],
+      "advice": [
+        "Equilibre sua movimentação com momentos de reflexão.",
+        "A generosidade atrai a abundância; compartilhe sua luz livremente.",
+        "Liderar com confiança.",
+        "Confie em seus instintos.",
+        "Compartilhe sua visão com generosidade.",
+        "Equilibre a coragem com a consideração.",
+        "Use as oportunidades com sabedoria."
+      ]
+    },
+    "monthly": {
+      "tone": [
+        "Este mês celebra sua individualidade e seu crescimento.",
+        "As ações ousadas e a autoexpressão são destacadas.",
+        "O carisma atrai novas conexões.",
+        "As atividades criativas florescem.",
+        "A confiança aumenta nas áreas pessoal e profissional.",
+        "A energia quente orienta as interações."
+      ],
+      "theme": [
+        "Vitórias pessoais e renovação emocional.",
+        "Crescimento por meio de liderança e iniciativa.",
+        "Fortalecimento de vínculos.",
+        "Empreendimentos criativos e românticos.",
+        "Reconhecimento e realização.",
+        "Coragem e vitalidade."
+      ],
+      "event": [
+        "Um esforço de longo prazo começa a dar frutos dourados.",
+        "Surgem oportunidades de liderança.",
+        "Projetos criativos ganham atenção.",
+        "Uma conexão pessoal se aprofunda.",
+        "Ocorre o reconhecimento de esforços anteriores.",
+        "Escolhas ousadas levam a recompensas."
+      ],
+      "advice": [
+        "Mantenha-se humilde no triunfo; a graça torna o sucesso duradouro.",
+        "Confie em seus talentos naturais.",
+        "Aproveite as oportunidades de reconhecimento.",
+        "Mantenha a generosidade e a cordialidade.",
+        "Expresse sua criatividade plenamente.",
+        "Equilibre a ambição com cuidado."
+      ]
+    },
+    "annual": {
+      "tone": [
+        "Este ano marca um renascimento pessoal, um retorno ao seu verdadeiro poder.",
+        "A confiança, a liderança e a criatividade são destacadas.",
+        "Escolhas ousadas levam ao crescimento pessoal.",
+        "O carisma atrai oportunidades.",
+        "Um período de reconhecimento e conquistas está por vir.",
+        "A coragem e a cordialidade moldam seu caminho."
+      ],
+      "theme": [
+        "Liderança, amor e realização criativa.",
+        "Autoexpressão e crescimento pessoal.",
+        "Liderança criativa.",
+        "Reconhecimento romântico e profissional.",
+        "Fortalecimento da influência pessoal.",
+        "Ação ousada e coragem."
+      ],
+      "event": [
+        "Um novo capítulo começa onde a confiança encontra a sabedoria.",
+        "Ocorre um grande reconhecimento por seus talentos.",
+        "Surgem oportunidades de liderança.",
+        "Um relacionamento pessoal se transforma positivamente.",
+        "Os empreendimentos criativos trazem sucesso.",
+        "Decisões ousadas criam um impacto duradouro."
+      ],
+      "advice": [
+        "Lidere com o coração, não com o ego; seu brilho muda a vida dos outros.",
+        "Confie em seus instintos.",
+        "Liderar com o coração.",
+        "Abrace a criatividade.",
+        "Equilibre a coragem com a sabedoria.",
+        "Concentre-se em um crescimento significativo."
+      ]
+    }
+  },
+  "virgo": {
+    "vibe": [
+      "Organizado e sereno",
+      "Prático e diligente",
+      "Analítico e preciso",
+      "Útil e meticuloso",
+      "Focado e atencioso"
+    ],
+    "emoji": [
+      "📝",
+      "🌿",
+      "💻",
+      "📊",
+      "🪴"
+    ],
+    "keywords": {
+      "love_and_emotions": [
+        "fidelidade",
+        "suporte",
+        "compreensão"
+      ],
+      "career_and_success": [
+        "planejamento",
+        "disciplinas",
+        "progresso"
+      ],
+      "spiritual_and_mystical": [
+        "clareza",
+        "reflexão",
+        "percepção"
+      ],
+      "luck_and_opportunity": [
+        "estabilidade",
+        "prêmio",
+        "crescimento"
+      ],
+      "health_and_wellbeing": [
+        "bem-estar",
+        "equilíbrio",
+        "resiliência"
+      ],
+      "adventure_and_growth": [
+        "aprendizado",
+        "adaptação",
+        "organização"
+      ]
+    },
+    "lucky_colors": [
+      "Verde oliva",
+      "Bege",
+      "Marrom suave",
+      "Creme",
+      "Marinha"
+    ],
+    "lucky_numbers": [
+      5,
+      14,
+      23,
+      32,
+      41
+    ],
+    "daily": {
+      "tone": [
+        "Sua atenção aos detalhes vale a pena; pequenos passos criam grandes mudanças.",
+        "A clareza surge onde antes havia confusão.",
+        "Hoje, a organização traz paz de espírito; a estrutura se torna liberdade.",
+        "Seu foco e atenção aos detalhes brilham hoje.",
+        "O pensamento prático traz clareza.",
+        "Uma abordagem disciplinada ajuda a enfrentar os desafios."
+      ],
+      "theme": [
+        "Eficiência, planejamento e realização silenciosa.",
+        "Cura por meio da rotina e da atenção plena.",
+        "Ser a calma na tempestade de outra pessoa.",
+        "Organização e planejamento.",
+        "Ajudar os outros.",
+        "Atenção aos pequenos detalhes."
+      ],
+      "event": [
+        "Uma solução prática chega bem a tempo.",
+        "Você é reconhecido por sua confiabilidade e cuidado.",
+        "Uma conversa esclarece mal-entendidos persistentes.",
+        "Uma tarefa se beneficia de sua precisão.",
+        "Agradecemos sua orientação.",
+        "Um pequeno insight leva a oportunidades maiores."
+      ],
+      "advice": [
+        "Não analise demais; confie que o suficientemente bom pode ser perfeito hoje.",
+        "Sua bondade tem poder; use-a com propósito.",
+        "Simplifique seu dia; a paz vive em ordem.",
+        "Seja metódico.",
+        "Confie em sua atenção aos detalhes.",
+        "Equilibre a perfeição com a flexibilidade."
+      ]
+    },
+    "tomorrow": {
+      "tone": [
+        "O amanhã recompensa o planejamento cuidadoso e a ação consciente.",
+        "Suas habilidades analíticas trazem clareza a situações complicadas.",
+        "O foco e a diligência garantem um progresso constante.",
+        "Soluções práticas aparecem quando necessário.",
+        "A energia metódica apoia suas metas."
+      ],
+      "theme": [
+        "Organização e preparação.",
+        "Ajudar os outros com habilidade.",
+        "Eficiência e clareza.",
+        "A atenção aos detalhes melhora os resultados.",
+        "Ação equilibrada e ponderada."
+      ],
+      "event": [
+        "Uma tarefa ou projeto atinge um marco significativo.",
+        "Alguém aprecia sua orientação e confiabilidade.",
+        "Uma ideia prática traz um progresso notável.",
+        "Sua abordagem disciplinada resolve um pequeno desafio.",
+        "Uma oportunidade surge de um planejamento cuidadoso."
+      ],
+      "advice": [
+        "Confie em sua abordagem metódica; a paciência traz resultados.",
+        "Mantenha-se concentrado e organizado.",
+        "Mantenha sua atenção no essencial.",
+        "Equilibre a diligência com a flexibilidade.",
+        "Planeje cuidadosamente antes de agir."
+      ]
+    },
+    "weekly": {
+      "tone": [
+        "Esta semana traz estrutura e clareza renovada para suas metas.",
+        "Sua mão firme transforma o caos em progresso.",
+        "Esta semana recompensa o planejamento e a diligência.",
+        "Sua mente analítica ajuda a resolver desafios.",
+        "A confiabilidade traz reconhecimento.",
+        "A atenção aos detalhes evita erros.",
+        "Uma abordagem prática gera progresso."
+      ],
+      "theme": [
+        "Desenvolvimento pessoal e equilíbrio entre vida pessoal e profissional.",
+        "Concentrar-se no que é essencial e não no que é perfeito.",
+        "Organização e solução de problemas.",
+        "Ajudar os outros com habilidade.",
+        "Eficiência nas tarefas.",
+        "Progresso metódico.",
+        "A precisão é importante."
+      ],
+      "event": [
+        "Uma tarefa ou hábito finalmente se encaixa no lugar.",
+        "Você recebe um agradecimento silencioso de alguém que ajudou.",
+        "Um projeto se beneficia de um planejamento cuidadoso.",
+        "O reconhecimento vem pelo trabalho diligente.",
+        "Pequenos ajustes levam ao sucesso.",
+        "Uma sugestão útil resolve um problema.",
+        "O trabalho de rotina traz benefícios de longo prazo."
+      ],
+      "advice": [
+        "Deixe que a imperfeição lhe ensine compaixão.",
+        "Lembre-se de que o autocuidado também é produtivo.",
+        "Planeje cuidadosamente.",
+        "Confie em suas habilidades.",
+        "Mantenha-se disciplinado.",
+        "Evite a pressa.",
+        "Use sua mente analítica."
+      ]
+    },
+    "monthly": {
+      "tone": [
+        "Este mês fortalece sua disciplina e visão.",
+        "O progresso vem por meio de diligência e foco.",
+        "Surgem soluções práticas.",
+        "Seus esforços são reconhecidos.",
+        "A organização ajuda no crescimento pessoal e profissional.",
+        "A clareza orienta as decisões."
+      ],
+      "theme": [
+        "Metas de longo prazo, saúde e organização emocional.",
+        "Eficiência e planejamento.",
+        "Ajudar os outros.",
+        "Aprimoramento pessoal.",
+        "Atenção aos detalhes.",
+        "Crescimento constante."
+      ],
+      "event": [
+        "Um desafio testa sua paciência, mas refina sua sabedoria.",
+        "Uma tarefa é concluída com sucesso.",
+        "O reconhecimento vem pelo esforço consistente.",
+        "As orientações úteis são valorizadas.",
+        "O planejamento leva a oportunidades.",
+        "Pequenos esforços geram resultados significativos."
+      ],
+      "advice": [
+        "A paciência é seu poder silencioso; o progresso adora a consistência.",
+        "Mantenha o foco.",
+        "Planeje com antecedência.",
+        "Manter a disciplina.",
+        "Priorize de forma eficaz.",
+        "Equilibrar o perfeccionismo."
+      ]
+    },
+    "annual": {
+      "tone": [
+        "Este ano redefine o que equilíbrio e propósito significam para você.",
+        "A eficiência, o crescimento e a precisão são destacados.",
+        "As habilidades analíticas orientam as principais decisões.",
+        "Sua confiabilidade fortalece as oportunidades.",
+        "O progresso metódico leva a um sucesso duradouro.",
+        "A atenção aos detalhes possibilita conquistas."
+      ],
+      "theme": [
+        "Domínio da carreira, inteligência emocional e alinhamento espiritual.",
+        "Crescimento pessoal por meio da diligência.",
+        "Gerenciamento de carreira e tarefas.",
+        "Ajudar os outros de forma eficaz.",
+        "Precisão e clareza.",
+        "Realizações metódicas."
+      ],
+      "event": [
+        "Uma recompensa de longo prazo chega por seus esforços anteriores.",
+        "Um plano de longo prazo é bem-sucedido por meio de um trabalho cuidadoso.",
+        "O reconhecimento pela confiabilidade e habilidade chega.",
+        "Um problema é resolvido por meio de uma visão analítica.",
+        "As oportunidades surgem de um esforço diligente.",
+        "Sua abordagem metódica traz estabilidade."
+      ],
+      "advice": [
+        "Não apresse a perfeição; seu crescimento está se desenvolvendo lindamente.",
+        "Confie em suas habilidades organizacionais.",
+        "Seja metódico.",
+        "Concentre-se em soluções práticas.",
+        "Evite atalhos.",
+        "Manter o equilíbrio."
+      ]
+    }
+  },
+  "libra": {
+    "vibe": [
+      "Harmonioso e gracioso",
+      "Diplomático e charmoso",
+      "Equilibrado e justo",
+      "Social e cooperativo",
+      "Artístico e gentil"
+    ],
+    "emoji": [
+      "⚖️",
+      "🌸",
+      "💖",
+      "🌷",
+      "✨"
+    ],
+    "keywords": {
+      "love_and_emotions": [
+        "romance",
+        "companheirismo",
+        "harmonia"
+      ],
+      "career_and_success": [
+        "colaboração",
+        "estratégia",
+        "progresso"
+      ],
+      "spiritual_and_mystical": [
+        "equilíbrio",
+        "intuição",
+        "alinhamento"
+      ],
+      "luck_and_opportunity": [
+        "serendipidade",
+        "oportunidade",
+        "benefício"
+      ],
+      "health_and_wellbeing": [
+        "bem-estar",
+        "paz",
+        "clareza"
+      ],
+      "adventure_and_growth": [
+        "curiosidade",
+        "aprendizado",
+        "social"
+      ]
+    },
+    "lucky_colors": [
+      "Rosa Blush",
+      "Azul celeste",
+      "Lavanda",
+      "Marfim",
+      "Hortelã"
+    ],
+    "lucky_numbers": [
+      6,
+      15,
+      24,
+      33,
+      42
+    ],
+    "daily": {
+      "tone": [
+        "A paz o acompanhará hoje se você escolher o equilíbrio em vez da reação.",
+        "O charme e a graça se tornam seu poder silencioso.",
+        "Uma conversa sincera restaura a harmonia.",
+        "Seu charme e diplomacia ajudam a facilitar as interações.",
+        "O equilíbrio orienta suas decisões.",
+        "A harmonia social traz oportunidades."
+      ],
+      "theme": [
+        "Relacionamentos, comunicação e reciprocidade emocional.",
+        "Inspiração criativa por meio da beleza e da estética.",
+        "Uma segunda chance de fazer algo certo.",
+        "Construção de relacionamentos.",
+        "Cooperação.",
+        "Apreciação estética."
+      ],
+      "event": [
+        "Você se reconecta com alguém que entende seu coração.",
+        "Um elogio ou um gesto aumenta sua confiança.",
+        "Boas notícias inesperadas acalmam uma preocupação recente.",
+        "Uma negociação ou discussão é favorável.",
+        "Uma conexão se fortalece inesperadamente.",
+        "Uma ideia criativa recebe reconhecimento."
+      ],
+      "advice": [
+        "Não pense demais na justiça; siga sua intuição.",
+        "Deixe que a diplomacia seja sua força, não seu disfarce.",
+        "Confie que a paz é uma decisão, não uma condição.",
+        "Busque o equilíbrio.",
+        "Ouça ativamente.",
+        "Parcerias de valor."
+      ]
+    },
+    "tomorrow": {
+      "tone": [
+        "O amanhã favorece interações harmoniosas e decisões ponderadas.",
+        "Sua diplomacia garante resultados tranquilos em situações desafiadoras.",
+        "O charme abre portas que você não esperava.",
+        "Escolhas equilibradas trazem reconhecimento e facilidade.",
+        "As conexões sociais proporcionam apoio e percepção."
+      ],
+      "theme": [
+        "Colaboração e parceria.",
+        "Resolução de conflitos com graça.",
+        "Oportunidades por meio da harmonia social.",
+        "A inspiração artística aprimora as interações.",
+        "Comunicação consciente."
+      ],
+      "event": [
+        "Um pequeno gesto de bondade fortalece o vínculo.",
+        "Uma oportunidade surge por meio de negociação ou compromisso.",
+        "Você recebe reconhecimento por sua abordagem justa.",
+        "A colaboração leva ao progresso em um projeto compartilhado.",
+        "Ideias criativas trazem reconhecimento ou apoio."
+      ],
+      "advice": [
+        "Fique atento às perspectivas dos outros e, ao mesmo tempo, honre a sua própria.",
+        "Equilibrar trabalho e diversão.",
+        "Confie em seus instintos diplomáticos.",
+        "Use o charme para construir pontes.",
+        "Priorize a harmonia em vez da pressa."
+      ]
+    },
+    "weekly": {
+      "tone": [
+        "Esta semana traz equilíbrio emocional e novos começos no amor ou na carreira.",
+        "A harmonia retorna quando você escolhe a sinceridade em vez da perfeição.",
+        "Esta semana destaca a harmonia e as conexões sociais.",
+        "Suas habilidades diplomáticas ajudam a resolver conflitos.",
+        "A criatividade inspira resultados positivos.",
+        "A cooperação fortalece as colaborações.",
+        "A energia pacífica atrai apoio."
+      ],
+      "theme": [
+        "Cooperação e metas compartilhadas.",
+        "Cura da tensão em conexões importantes.",
+        "Construir relacionamentos.",
+        "Cooperação e negociação.",
+        "Projetos artísticos e criativos.",
+        "Tomada de decisão justa.",
+        "Harmonia social."
+      ],
+      "event": [
+        "Uma parceria de trabalho fortalece o respeito mútuo.",
+        "Você redescobre a alegria por meio de um projeto criativo ou social.",
+        "Uma parceria beneficia você.",
+        "Surge uma oportunidade por meio da diplomacia.",
+        "Os esforços criativos são reconhecidos.",
+        "Um conflito é resolvido pacificamente.",
+        "Uma pessoa solidária oferece ajuda."
+      ],
+      "advice": [
+        "Seja claro sobre o que você precisa; os outros não conseguem ler seu silêncio.",
+        "Perdoe as pequenas coisas; a paz de espírito vale mais.",
+        "Equilibrar as necessidades pessoais e as dos outros.",
+        "Comunique-se com clareza.",
+        "Cultivar os vínculos sociais.",
+        "Mantenha o espírito justo.",
+        "Confie em seu charme."
+      ]
+    },
+    "monthly": {
+      "tone": [
+        "Esse mês melhora seus relacionamentos e sua inspiração artística.",
+        "Este mês incentiva a harmonia e o equilíbrio.",
+        "As atividades sociais e criativas florescem.",
+        "A diplomacia traz reconhecimento.",
+        "A paz e a colaboração orientam as escolhas.",
+        "Os relacionamentos se aprofundam de forma positiva."
+      ],
+      "theme": [
+        "Romance, colaboração e expressão emocional.",
+        "Colaboração.",
+        "Expressão criativa.",
+        "Foco no relacionamento.",
+        "Equidade e equilíbrio.",
+        "Engajamento social."
+      ],
+      "event": [
+        "Você atrai harmonia onde antes havia conflito.",
+        "Uma negociação é bem-sucedida.",
+        "Uma conexão social traz oportunidades.",
+        "Um projeto criativo chama a atenção.",
+        "As parcerias se fortalecem.",
+        "Ocorre o reconhecimento da ação justa."
+      ],
+      "advice": [
+        "Deixe que a bondade guie cada escolha; a beleza segue o equilíbrio.",
+        "Buscar o equilíbrio.",
+        "Manter a diplomacia.",
+        "Confie nos instintos criativos.",
+        "Envolva-se socialmente.",
+        "Priorizar a justiça."
+      ]
+    },
+    "annual": {
+      "tone": [
+        "Este ano recompensa sua busca pela paz e pelo amor autêntico.",
+        "Este ano enfatiza o equilíbrio, a harmonia e o sucesso social.",
+        "Habilidades diplomáticas e criativas trazem oportunidades.",
+        "A justiça e o charme atraem resultados positivos.",
+        "Os relacionamentos desempenham um papel central.",
+        "A expressão artística aumenta o crescimento pessoal."
+      ],
+      "theme": [
+        "Parcerias, harmonia interior e evolução criativa.",
+        "Crescimento social.",
+        "Realização criativa.",
+        "Parcerias.",
+        "Diplomacia.",
+        "Equilíbrio e harmonia."
+      ],
+      "event": [
+        "Você atrai estabilidade de longo prazo por meio da compaixão e da verdade.",
+        "Um relacionamento ou parceria se transforma positivamente.",
+        "Os talentos criativos ganham reconhecimento.",
+        "A resolução de conflitos traz oportunidades.",
+        "Os esforços de colaboração levam ao sucesso.",
+        "As oportunidades surgem da diplomacia."
+      ],
+      "advice": [
+        "O equilíbrio começa em seu interior; pare de esperar que os outros o criem.",
+        "Confie em seu senso de equilíbrio.",
+        "Envolva-se socialmente.",
+        "Manter a harmonia.",
+        "Desenvolver habilidades criativas.",
+        "Parcerias de valor."
+      ]
+    }
+  },
+  "scorpio": {
+    "vibe": [
+      "Misterioso e magnético",
+      "Intenso e apaixonado",
+      "Focado e determinado",
+      "Transformador e profundo",
+      "Sigiloso e estratégico"
+    ],
+    "emoji": [
+      "🦂",
+      "🔮",
+      "💥",
+      "🌑",
+      "💫"
+    ],
+    "keywords": {
+      "love_and_emotions": [
+        "intensidade",
+        "devoção",
+        "conexão"
+      ],
+      "career_and_success": [
+        "estratégia",
+        "foco",
+        "liderança"
+      ],
+      "spiritual_and_mystical": [
+        "transformação",
+        "intuição",
+        "percepção"
+      ],
+      "luck_and_opportunity": [
+        "oportunidade",
+        "inovador",
+        "ganho"
+      ],
+      "health_and_wellbeing": [
+        "resiliência",
+        "energia",
+        "clareza"
+      ],
+      "adventure_and_growth": [
+        "desafio",
+        "exploração",
+        "aprendizado profundo"
+      ]
+    },
+    "lucky_colors": [
+      "Borgonha",
+      "Preto",
+      "Marrom",
+      "Ameixa",
+      "Vermelho escuro"
+    ],
+    "lucky_numbers": [
+      3,
+      8,
+      18,
+      27,
+      36
+    ],
+    "daily": {
+      "tone": [
+        "Sua profundidade emocional aproxima as pessoas, mas proteja sua energia.",
+        "A transformação está no ar; algo dentro de você está pronto para evoluir.",
+        "Você percebe verdades que os outros não percebem; confie nesse instinto.",
+        "Sua intensidade alimenta seu foco hoje.",
+        "As emoções são profundas e orientam as decisões.",
+        "Surge um insight poderoso."
+      ],
+      "theme": [
+        "Despertar emocional e transformação interior.",
+        "Uma mudança de poder que trabalha a seu favor.",
+        "Clareza por meio da vulnerabilidade.",
+        "Conexão profunda.",
+        "Ação estratégica.",
+        "Compreensão emocional."
+      ],
+      "event": [
+        "Um segredo vem à tona, libertando seu espírito.",
+        "Você enfrenta algo que antes o assustava.",
+        "A honestidade de alguém traz um alívio inesperado.",
+        "Uma situação revela verdades ocultas.",
+        "Surge uma oportunidade importante.",
+        "Ocorre uma ruptura emocional."
+      ],
+      "advice": [
+        "Libere o controle; a transformação requer rendição.",
+        "Sua força está na transparência emocional.",
+        "Não confunda intensidade com caos; mudanças profundas são lindas.",
+        "Confie em sua intuição.",
+        "Use o foco de forma estratégica.",
+        "Canalize a intensidade de forma produtiva."
+      ]
+    },
+    "tomorrow": {
+      "tone": [
+        "O amanhã traz clareza e percepção de assuntos ocultos.",
+        "Seu foco revela oportunidades que outros podem perder.",
+        "A profundidade emocional fortalece os vínculos pessoais e profissionais.",
+        "O pensamento estratégico orienta decisões importantes.",
+        "A transformação se desenvolve sutilmente, mas de forma significativa."
+      ],
+      "theme": [
+        "Revelando verdades ocultas.",
+        "Progresso estratégico na vida pessoal ou profissional.",
+        "Aprofundar as conexões emocionais.",
+        "Ação focada e transformação.",
+        "Reflexão e planejamento perspicazes."
+      ],
+      "event": [
+        "Uma revelação sutil muda a perspectiva.",
+        "Você reconhece uma oportunidade oculta.",
+        "Uma conversa revela verdades importantes.",
+        "As decisões estratégicas levam a resultados positivos.",
+        "A percepção emocional ajuda a resolver um problema persistente."
+      ],
+      "advice": [
+        "Observe antes de agir; a paciência revela o melhor caminho.",
+        "Confie na intuição e na inteligência emocional.",
+        "Use seu foco com sabedoria para enfrentar os desafios.",
+        "Permitir que a transformação ocorra naturalmente.",
+        "Canalize a intensidade para ações construtivas."
+      ]
+    },
+    "weekly": {
+      "tone": [
+        "Esta semana renova seu foco e revela verdades ocultas.",
+        "A paixão reacende, no amor, na ambição ou em ambos.",
+        "Esta semana exige foco e estratégia.",
+        "A profundidade emocional fortalece os relacionamentos.",
+        "Sua resiliência orienta as decisões.",
+        "A energia intensa gera progresso.",
+        "Escolhas perspicazes moldam os resultados."
+      ],
+      "theme": [
+        "Cura, revelação e capacitação interior.",
+        "Equilíbrio entre emoção e lógica.",
+        "Transformação pessoal.",
+        "Movimentos estratégicos.",
+        "Conexão emocional profunda.",
+        "Resolução de desafios.",
+        "Energia concentrada."
+      ],
+      "event": [
+        "Um mal-entendido do passado é encerrado.",
+        "Você recebe orientação de alguém sábio ou inesperado.",
+        "Surge uma verdade importante.",
+        "Um relacionamento se aprofunda.",
+        "Uma oportunidade estratégica se apresenta.",
+        "O insight leva à ação.",
+        "Os desafios revelam os pontos fortes."
+      ],
+      "advice": [
+        "Deixe de lado os ressentimentos; a liberação convida à renovação.",
+        "Sua intuição é sua maior bússola; confie totalmente nela.",
+        "Mantenha o foco.",
+        "Confie na orientação interior.",
+        "Canalize as emoções com sabedoria.",
+        "Planeje estrategicamente.",
+        "Abrace a transformação."
+      ]
+    },
+    "monthly": {
+      "tone": [
+        "Este mês convida ao renascimento; os finais abrem caminho para a renovação.",
+        "Esse mês enfatiza a transformação e o insight.",
+        "Sua profundidade emocional orienta escolhas importantes.",
+        "A ação estratégica leva a um progresso tangível.",
+        "O foco intenso revela oportunidades ocultas.",
+        "A resiliência e a coragem definem seu caminho."
+      ],
+      "theme": [
+        "Deixar ir, reconstruir e redescobrir o poder.",
+        "Conexões profundas.",
+        "Crescimento pessoal.",
+        "Planejamento estratégico.",
+        "Consciência emocional.",
+        "Transformação."
+      ],
+      "event": [
+        "Uma revelação emocional desencadeia uma transformação.",
+        "Um relacionamento ou projeto se transforma.",
+        "As oportunidades ocultas vêm à tona.",
+        "Decisões perspicazes geram resultados.",
+        "Um ponto de virada o desafia positivamente.",
+        "O reconhecimento vem pela perseverança."
+      ],
+      "advice": [
+        "Confie que o universo remove o que bloqueia sua evolução.",
+        "Confie no processo.",
+        "Use a energia com sabedoria.",
+        "Foco na transformação.",
+        "Abrace a percepção emocional.",
+        "Planeje cuidadosamente."
+      ]
+    },
+    "annual": {
+      "tone": [
+        "Este ano transforma sua vida de dentro para fora.",
+        "Este ano enfatiza a transformação, o foco e a profundidade emocional.",
+        "Mudanças poderosas orientam o crescimento pessoal e profissional.",
+        "Sua resiliência traz oportunidades.",
+        "O insight estratégico leva ao sucesso.",
+        "A inteligência emocional capacita as realizações."
+      ],
+      "theme": [
+        "Força emocional, novos começos e cura interior.",
+        "Transformação pessoal.",
+        "Avanço estratégico.",
+        "Profundidade emocional.",
+        "Crescimento intenso.",
+        "Resiliência e foco."
+      ],
+      "event": [
+        "Você supera uma identidade antiga e abraça seu verdadeiro poder.",
+        "Ocorre uma transformação significativa.",
+        "Aparece uma grande oportunidade de avanço.",
+        "Os relacionamentos evoluem profundamente.",
+        "Decisões perspicazes afetam o ano.",
+        "As conquistas recompensam o foco e a perseverança."
+      ],
+      "advice": [
+        "O que parece ser uma perda é, na verdade, uma libertação; uma renovação.",
+        "Confie em sua intuição.",
+        "Concentre-se em um crescimento significativo.",
+        "Canalizar a intensidade de forma positiva.",
+        "Buscar metas estrategicamente.",
+        "Aceite a mudança."
+      ]
+    }
+  },
+  "sagittarius": {
+    "vibe": [
+      "Aventureiro e otimista",
+      "Curioso e de espírito livre",
+      "Energético e ousado",
+      "Explorador e de mente aberta",
+      "Espontâneo e entusiasmado"
+    ],
+    "emoji": [
+      "🏹",
+      "🌍",
+      "🔥",
+      "✨",
+      "💫"
+    ],
+    "keywords": {
+      "love_and_emotions": [
+        "afeto",
+        "diversão",
+        "conexão"
+      ],
+      "career_and_success": [
+        "crescimento",
+        "aventura",
+        "oportunidade"
+      ],
+      "spiritual_and_mystical": [
+        "clareza",
+        "exploração",
+        "intuição"
+      ],
+      "luck_and_opportunity": [
+        "serendipidade",
+        "fortuna",
+        "benefício"
+      ],
+      "health_and_wellbeing": [
+        "energia",
+        "equilíbrio",
+        "vitalidade"
+      ],
+      "adventure_and_growth": [
+        "aprendizado",
+        "viagem",
+        "liberdade"
+      ]
+    },
+    "lucky_colors": [
+      "Azul Royal",
+      "Roxo",
+      "Magenta",
+      "Índigo",
+      "Turquesa"
+    ],
+    "lucky_numbers": [
+      5,
+      11,
+      20,
+      29,
+      38
+    ],
+    "daily": {
+      "tone": [
+        "Sua curiosidade o leva a um lugar interessante hoje.",
+        "A aventura chama; diga sim, mesmo que isso pareça incerto.",
+        "Seu otimismo desperta uma alegria contagiante nos outros.",
+        "Seu espírito aventureiro desperta a curiosidade hoje.",
+        "O otimismo orienta suas escolhas.",
+        "A energia impulsiona a exploração."
+      ],
+      "theme": [
+        "Novas experiências e horizontes abertos.",
+        "Conexões que inspiram confiança e coragem.",
+        "Uma decisão que o libera emocionalmente.",
+        "Liberdade e crescimento.",
+        "Aprender coisas novas.",
+        "Conexões sociais."
+      ],
+      "event": [
+        "Você ouve notícias que reacendem sua motivação.",
+        "Um encontro casual oferece uma oportunidade inesperada.",
+        "Você se sente reconectado ao seu senso de propósito.",
+        "Surge uma oportunidade de viagem ou aventura.",
+        "Uma conversa abre uma nova perspectiva.",
+        "Uma empolgação inesperada alegra o dia."
+      ],
+      "advice": [
+        "Siga o entusiasmo, não o medo.",
+        "Mantenha seu coração aberto; a espontaneidade é sua estrela da sorte.",
+        "Não planeje demais; as surpresas de hoje são divinas.",
+        "Abrace a aventura.",
+        "Tenha a mente aberta.",
+        "Siga a curiosidade."
+      ]
+    },
+    "tomorrow": {
+      "tone": [
+        "O amanhã traz energia renovada e possibilidades empolgantes.",
+        "Seu otimismo revela oportunidades onde outros não veem nenhuma.",
+        "A curiosidade abre portas para um aprendizado inesperado.",
+        "Ações espontâneas levam a experiências alegres.",
+        "Seu espírito aventureiro inspira as pessoas ao seu redor."
+      ],
+      "theme": [
+        "Exploração e descoberta.",
+        "Expandir os horizontes pessoais e profissionais.",
+        "Oportunidades por meio da curiosidade e do otimismo.",
+        "Liberdade para agir com ousadia.",
+        "Conexão com pessoas inspiradoras."
+      ],
+      "event": [
+        "Um convite inesperado leva à aventura.",
+        "Você obtém clareza sobre uma oportunidade futura.",
+        "Um encontro casual inspira crescimento.",
+        "Uma decisão empolgante abre novos caminhos.",
+        "Uma nova perspectiva muda uma situação atual."
+      ],
+      "advice": [
+        "Esteja aberto a surpresas; a flexibilidade é sua aliada.",
+        "Confie em seus instintos aventureiros.",
+        "Aja com ousadia quando surgirem oportunidades.",
+        "Busque experiências que expandam sua visão.",
+        "Deixe o otimismo guiar suas escolhas."
+      ]
+    },
+    "weekly": {
+      "tone": [
+        "Esta semana traz novas experiências que expandem sua visão.",
+        "O otimismo se torna sua bússola; confie totalmente nele.",
+        "Esta semana incentiva a exploração e a ação ousada.",
+        "O otimismo atrai experiências positivas.",
+        "Sua energia atrai conexões.",
+        "Escolhas aventureiras trazem crescimento.",
+        "A curiosidade revela oportunidades."
+      ],
+      "theme": [
+        "Viagens, educação ou crescimento pessoal.",
+        "Fé em seu caminho, apesar da incerteza.",
+        "Aprendizado e exploração.",
+        "Liberdade e espontaneidade.",
+        "Expandir os horizontes.",
+        "Engajamento social.",
+        "Crescimento aventureiro."
+      ],
+      "event": [
+        "Uma nova oportunidade amplia seu mundo.",
+        "Você percebe que liberdade significa comprometer-se com a alegria.",
+        "Surge uma nova oportunidade de viagem.",
+        "O insight inesperado amplia a compreensão.",
+        "As conexões levam à aventura.",
+        "Um encontro casual inspira.",
+        "A energia alimenta a ação positiva."
+      ],
+      "advice": [
+        "Diga sim com mais frequência; o crescimento raramente vem da segurança.",
+        "Seu riso cura mais do que você imagina.",
+        "Acompanhe as oportunidades.",
+        "Permaneça com a mente aberta.",
+        "Abrace a espontaneidade.",
+        "Assuma riscos calculados.",
+        "Busque o crescimento."
+      ]
+    },
+    "monthly": {
+      "tone": [
+        "Este mês alimenta seu fogo com ambição e propósito.",
+        "Este mês estimula a curiosidade e o movimento.",
+        "O otimismo orienta as principais decisões.",
+        "O aprendizado e a exploração levam ao progresso.",
+        "A energia apoia o crescimento físico e mental.",
+        "A liberdade de escolha dá poder a você."
+      ],
+      "theme": [
+        "Aventura, criatividade e autodescoberta.",
+        "Expandir os horizontes.",
+        "Crescimento pessoal.",
+        "Liberdade e exploração.",
+        "Curiosidade e aprendizado.",
+        "Engajamento energético."
+      ],
+      "event": [
+        "Você ganha clareza em uma visão ou sonho de longo prazo.",
+        "Surge uma oportunidade de viagem ou de aprendizado.",
+        "As conexões inspiram novas perspectivas.",
+        "A aventura estimula a criatividade.",
+        "A energia leva ao sucesso.",
+        "O acaso inesperado traz crescimento."
+      ],
+      "advice": [
+        "Busque o significado em vez da perfeição; a alegria é o verdadeiro sucesso.",
+        "Fique curioso.",
+        "Abrace a liberdade.",
+        "Explore novas ideias.",
+        "Aja com energia.",
+        "Busque aventura."
+      ]
+    },
+    "annual": {
+      "tone": [
+        "Este ano desperta sua alma aventureira.",
+        "Este ano enfatiza a exploração, o crescimento e a liberdade.",
+        "O espírito aventureiro traz oportunidades.",
+        "O otimismo e a energia definem as principais escolhas.",
+        "A curiosidade impulsiona o aprendizado e a expansão.",
+        "Ações ousadas levam ao crescimento pessoal."
+      ],
+      "theme": [
+        "Verdade pessoal, expansão e reinvenção ousada.",
+        "Crescimento pessoal por meio da exploração.",
+        "Liberdade e aventura.",
+        "Ampliação do conhecimento.",
+        "Engajamento energético.",
+        "Oportunidades por meio do otimismo."
+      ],
+      "event": [
+        "Viagens que mudaram sua vida ou uma grande oportunidade no exterior.",
+        "Surge uma grande oportunidade de viagem ou de aprendizado.",
+        "As conexões abrem portas inesperadas.",
+        "As escolhas aventureiras transformam as perspectivas.",
+        "A energia alimenta o progresso.",
+        "O otimismo atrai mudanças positivas."
+      ],
+      "advice": [
+        "Assuma riscos guiados pelo otimismo; o destino ama sua coragem.",
+        "Abrace a liberdade.",
+        "Siga a curiosidade.",
+        "Tome medidas ousadas.",
+        "Explore com confiança.",
+        "Confie no otimismo."
+      ]
+    }
+  },
+  "capricorn": {
+    "vibe": [
+      "Disciplinado e sofisticado",
+      "Responsável e confiável",
+      "Ambicioso e estratégico",
+      "Focado e paciente",
+      "Organizado e prudente"
+    ],
+    "emoji": [
+      "🐐",
+      "🏔️",
+      "📈",
+      "🕰️",
+      "💼"
+    ],
+    "keywords": {
+      "love_and_emotions": [
+        "fidelidade",
+        "estabilidade",
+        "confiança"
+      ],
+      "career_and_success": [
+        "realização",
+        "disciplinas",
+        "planejamento"
+      ],
+      "spiritual_and_mystical": [
+        "clareza",
+        "reflexão",
+        "percepção"
+      ],
+      "luck_and_opportunity": [
+        "crescimento",
+        "prêmio",
+        "estabilidade"
+      ],
+      "health_and_wellbeing": [
+        "força",
+        "resiliência",
+        "equilíbrio"
+      ],
+      "adventure_and_growth": [
+        "foco",
+        "aprendizado",
+        "responsabilidade"
+      ]
+    },
+    "lucky_colors": [
+      "Carvão vegetal",
+      "Verde escuro",
+      "Marrom",
+      "Cinza ardósia",
+      "Prata"
+    ],
+    "lucky_numbers": [
+      4,
+      10,
+      19,
+      28,
+      37
+    ],
+    "daily": {
+      "tone": [
+        "Sua persistência transforma o esforço em realização hoje.",
+        "Seja paciente; pequenos passos geram um progresso duradouro.",
+        "A autoridade vem naturalmente quando você age com calma e confiança.",
+        "Foco e disciplina guiam suas ações hoje.",
+        "A paciência ajuda a enfrentar os desafios.",
+        "Uma abordagem constante leva ao progresso."
+      ],
+      "theme": [
+        "Metas de longo prazo e resistência emocional.",
+        "Produtividade silenciosa e autocontrole.",
+        "Conquistar o respeito por meio da consistência.",
+        "Planejamento de longo prazo.",
+        "Compromisso.",
+        "Ação estratégica."
+      ],
+      "event": [
+        "Uma tarefa que você evitava finalmente é realizada com facilidade.",
+        "Alguém percebe sua confiabilidade e oferece apoio.",
+        "Você descobre um caminho que parece seguro e estimulante.",
+        "Um trabalho ou responsabilidade pessoal mostra progresso.",
+        "Um esforço disciplinado compensa.",
+        "Surge uma oportunidade de liderança."
+      ],
+      "advice": [
+        "Orgulhe-se do progresso, não da perfeição.",
+        "Faça uma pausa antes de se esforçar demais; o descanso aguça seu foco.",
+        "Liderança significa paciência tanto quanto poder.",
+        "Seja paciente.",
+        "Planeje cuidadosamente.",
+        "Comprometer-se com as prioridades."
+      ]
+    },
+    "tomorrow": {
+      "tone": [
+        "O amanhã traz clareza para suas metas de longo prazo.",
+        "O foco constante revela oportunidades que outros podem perder.",
+        "A paciência permite que o progresso se desenvolva naturalmente.",
+        "Sua abordagem disciplinada conquista respeito e reconhecimento.",
+        "O pensamento estratégico prepara o terreno para o sucesso."
+      ],
+      "theme": [
+        "Planejamento para realizações futuras.",
+        "Manter a paciência e a persistência.",
+        "Criar confiança e estabilidade.",
+        "Crescimento pessoal e de carreira em longo prazo.",
+        "Abordagem estruturada dos desafios."
+      ],
+      "event": [
+        "Um plano que você definiu anteriormente começa a dar resultados.",
+        "Uma figura de autoridade ou mentor reconhece seu esforço.",
+        "Uma tarefa que exige foco é concluída sem problemas.",
+        "Uma oportunidade de avanço se torna clara.",
+        "A consistência traz recompensas inesperadas."
+      ],
+      "advice": [
+        "Mantenha-se comprometido com suas prioridades.",
+        "Concentre-se em um progresso constante e sustentável.",
+        "Confie em sua abordagem disciplinada.",
+        "A paciência compensa mais do que a velocidade.",
+        "Mantenha metas de longo prazo em vista."
+      ]
+    },
+    "weekly": {
+      "tone": [
+        "Esta semana estabiliza seus planos e traz resultados tangíveis.",
+        "Você está construindo algo sólido, mesmo que ainda não seja visível.",
+        "Esta semana enfatiza a disciplina e o planejamento estratégico.",
+        "O esforço constante produz resultados.",
+        "A paciência aprimora a tomada de decisões.",
+        "A confiabilidade fortalece os relacionamentos.",
+        "A praticidade orienta o sucesso."
+      ],
+      "theme": [
+        "Foco na carreira, disciplina e crescimento financeiro.",
+        "Responsabilidade emocional e confiança de longo prazo.",
+        "Ação orientada por metas.",
+        "Compromisso.",
+        "Crescimento estratégico.",
+        "Paciência e persistência.",
+        "Planejamento de longo prazo."
+      ],
+      "event": [
+        "Um esforço lento começa a valer a pena.",
+        "Você ganha clareza sobre uma decisão que vem adiando.",
+        "Um esforço planejado compensa.",
+        "As responsabilidades revelam a oportunidade.",
+        "Aconselhamento ou apoio são valiosos.",
+        "Uma meta de longo prazo avança.",
+        "O trabalho constante traz reconhecimento."
+      ],
+      "advice": [
+        "Não apresse os resultados; o domínio é construído, não encontrado.",
+        "Que a dedicação seja sua oração esta semana.",
+        "Mantenha o foco.",
+        "Confie em seu plano.",
+        "Mantenha a paciência.",
+        "Priorize de forma eficaz.",
+        "Trabalhe de forma consistente."
+      ]
+    },
+    "monthly": {
+      "tone": [
+        "Este mês testa sua resistência, mas fortalece sua determinação.",
+        "Esse mês recompensa a paciência e a disciplina.",
+        "Decisões práticas levam ao sucesso.",
+        "O foco em metas de longo prazo traz clareza.",
+        "A confiabilidade fortalece a confiança.",
+        "As ações estratégicas criam impulso."
+      ],
+      "theme": [
+        "Progresso na carreira e base emocional.",
+        "Planejamento e progresso.",
+        "Crescimento pessoal e de carreira.",
+        "Comprometimento e confiabilidade.",
+        "Ação estratégica.",
+        "Melhoria constante."
+      ],
+      "event": [
+        "Uma meta pessoal pode ser alcançada por meio de um foco constante.",
+        "Um projeto pessoal ou de trabalho avança.",
+        "O reconhecimento vem pelo esforço constante.",
+        "O planejamento de longo prazo dá frutos.",
+        "Surge o apoio de contatos confiáveis.",
+        "A disciplina leva a resultados tangíveis."
+      ],
+      "advice": [
+        "A persistência supera a sorte; mantenha seu rumo firme.",
+        "Seja paciente.",
+        "Planeje estrategicamente.",
+        "Manter o foco.",
+        "Cumprir os compromissos assumidos.",
+        "Priorizar as principais ações."
+      ]
+    },
+    "annual": {
+      "tone": [
+        "Este ano coroa seus esforços com um reconhecimento bem merecido.",
+        "Este ano enfatiza a disciplina, a estratégia e as conquistas de longo prazo.",
+        "A paciência e a confiabilidade abrem portas.",
+        "O foco constante orienta o sucesso.",
+        "A responsabilidade e o planejamento moldam o progresso.",
+        "A ambição e a praticidade definem os marcos."
+      ],
+      "theme": [
+        "Realização, maturidade e confiança tranquila.",
+        "Cumprimento de metas por meio da disciplina.",
+        "Planejamento de longo prazo.",
+        "Crescimento estratégico.",
+        "Confiabilidade e confiança.",
+        "Progresso prático."
+      ],
+      "event": [
+        "Um novo capítulo começa com maior autoridade e paz interior.",
+        "Uma meta importante é alcançada por meio de esforço.",
+        "O reconhecimento pela dedicação chega.",
+        "O planejamento estratégico leva ao sucesso.",
+        "As responsabilidades oferecem oportunidades de crescimento.",
+        "Os projetos de longo prazo geram resultados."
+      ],
+      "advice": [
+        "Honre sua jornada; o crescimento lento é um crescimento sagrado.",
+        "Confie em seu processo.",
+        "Seja paciente e disciplinado.",
+        "Concentre-se em metas práticas.",
+        "Planeje estrategicamente.",
+        "Manter a consistência."
+      ]
+    }
+  },
+  "aquarius": {
+    "vibe": [
+      "Inovador e visionário",
+      "Independente e exclusivo",
+      "Curioso e analítico",
+      "Humanitário e de mente aberta",
+      "Criativo e não convencional"
+    ],
+    "emoji": [
+      "♒",
+      "🌌",
+      "✨",
+      "💡",
+      "🪐"
+    ],
+    "keywords": {
+      "love_and_emotions": [
+        "amizade",
+        "conexão",
+        "liberdade"
+      ],
+      "career_and_success": [
+        "inovação",
+        "progresso",
+        "estratégia"
+      ],
+      "spiritual_and_mystical": [
+        "percepção",
+        "alinhamento",
+        "intuição"
+      ],
+      "luck_and_opportunity": [
+        "oportunidade",
+        "inovador",
+        "serendipidade"
+      ],
+      "health_and_wellbeing": [
+        "clareza",
+        "equilíbrio",
+        "energia"
+      ],
+      "adventure_and_growth": [
+        "curiosidade",
+        "exploração",
+        "liberdade"
+      ]
+    },
+    "lucky_colors": [
+      "Turquesa",
+      "Azul elétrico",
+      "Prata",
+      "Índigo",
+      "Hortelã"
+    ],
+    "lucky_numbers": [
+      7,
+      14,
+      22,
+      31,
+      40
+    ],
+    "daily": {
+      "tone": [
+        "Suas ideias estão mais brilhantes do que nunca; não tenha medo de compartilhá-las.",
+        "O dia de hoje traz um lampejo de percepção que muda sua perspectiva.",
+        "A inovação flui facilmente; sua originalidade é seu superpoder.",
+        "Inovação e curiosidade guiam seu dia.",
+        "Seu intelecto gera novas ideias.",
+        "Uma conexão inspira a ação."
+      ],
+      "theme": [
+        "Pensamento criativo e autoexpressão ousada.",
+        "Interação social com pessoas que pensam da mesma forma.",
+        "Liberdade por meio de um novo entendimento.",
+        "Pensamento original.",
+        "Engajamento social.",
+        "Experimentação."
+      ],
+      "event": [
+        "Você conhece alguém que vê o mundo como você.",
+        "Uma ideia que você descartou anteriormente de repente faz sentido.",
+        "Um amigo o incentiva a dar um salto de fé.",
+        "Surge uma nova ideia.",
+        "Uma solução não convencional funciona.",
+        "As conexões inspiram a colaboração."
+      ],
+      "advice": [
+        "Diga sua verdade, mesmo que pareça incomum.",
+        "Mantenha-se aberto à colaboração; a magia coletiva está se formando.",
+        "Não tenha medo de ser diferente; esse é o seu dom, não o seu defeito.",
+        "Tenha a mente aberta.",
+        "Explore novas ideias.",
+        "Abrace a originalidade."
+      ]
+    },
+    "tomorrow": {
+      "tone": [
+        "O Tomorrow incentiva a exploração de soluções não convencionais.",
+        "Ideias novas orientam suas interações e projetos.",
+        "Sua originalidade atrai atenção positiva.",
+        "A curiosidade abre portas para oportunidades inesperadas.",
+        "A inovação alimenta sua confiança."
+      ],
+      "theme": [
+        "Solução original de problemas.",
+        "Criatividade colaborativa.",
+        "Expandir os horizontes intelectuais.",
+        "Liberdade por meio do insight.",
+        "Inovação social."
+      ],
+      "event": [
+        "Uma nova conexão inspira um projeto criativo.",
+        "Uma solução incomum resolve um problema persistente.",
+        "Uma ideia que você teve anteriormente ganha impulso.",
+        "Alguém aprecia sua perspectiva única.",
+        "Uma conversa gera inspiração."
+      ],
+      "advice": [
+        "Confie em sua perspectiva única.",
+        "Aproveite as oportunidades de colaboração.",
+        "Mantenha-se curioso e aberto à experimentação.",
+        "Compartilhe suas ideias com confiança.",
+        "Siga as percepções intuitivas."
+      ]
+    },
+    "weekly": {
+      "tone": [
+        "Esta semana revela avanços na comunicação e na criatividade.",
+        "Um senso de renovação alimenta sua vida social e profissional.",
+        "Esta semana enfatiza a criatividade e as abordagens não convencionais.",
+        "A amizade e a colaboração são destacadas.",
+        "A inovação traz oportunidades.",
+        "O engajamento intelectual estimula o progresso.",
+        "A curiosidade revela possibilidades."
+      ],
+      "theme": [
+        "Networking, ideias ousadas e reinvenção pessoal.",
+        "Confiar em sua visão apesar do ceticismo.",
+        "Crescimento social.",
+        "Soluções originais.",
+        "Colaboração.",
+        "Aprendizado e experimentação.",
+        "Inovação."
+      ],
+      "event": [
+        "Você ganha reconhecimento por sua originalidade.",
+        "O apoio inesperado vem de um aliado improvável.",
+        "Surge um novo projeto ou ideia.",
+        "A colaboração leva ao progresso.",
+        "Surge uma oportunidade incomum.",
+        "As conexões promovem o insight.",
+        "Uma nova perspectiva dos planos de benefícios."
+      ],
+      "advice": [
+        "Seja paciente com aqueles que não veem o mundo do seu jeito.",
+        "Sua singularidade não precisa de aprovação, apenas de autenticidade.",
+        "Confie em sua intuição.",
+        "Seja flexível.",
+        "Aceite novas ideias.",
+        "Envolva-se com pessoas que pensam da mesma forma.",
+        "Pense de forma criativa."
+      ]
+    },
+    "monthly": {
+      "tone": [
+        "Este mês traz clareza e colaboração para sua visão de longo prazo.",
+        "A inovação e as novas perspectivas orientam suas ações.",
+        "As conexões sociais levam a insights.",
+        "A curiosidade abre portas para oportunidades.",
+        "Estratégias com visão de futuro geram resultados.",
+        "A energia intelectual fortalece as decisões."
+      ],
+      "theme": [
+        "Inovação, liderança e metas compartilhadas.",
+        "Soluções criativas.",
+        "Inovação.",
+        "Colaboração.",
+        "Crescimento por meio de ideias.",
+        "Progresso não convencional."
+      ],
+      "event": [
+        "Um projeto pessoal ou em grupo decola com ímpeto.",
+        "Surge uma nova oportunidade.",
+        "A colaboração gera sucesso.",
+        "O insight leva a avanços.",
+        "Um projeto toma um rumo inesperado.",
+        "As conexões trazem recompensas inesperadas."
+      ],
+      "advice": [
+        "Sonhe com ousadia; suas ideias estão prontas para causar impacto no mundo real.",
+        "Fique curioso.",
+        "Abrace a originalidade.",
+        "Confie em seu intelecto.",
+        "Busque colaboração.",
+        "Explorar a inovação."
+      ]
+    },
+    "annual": {
+      "tone": [
+        "Este ano revoluciona seu propósito e sua liberdade pessoal.",
+        "Este ano enfatiza a inovação, a independência e o crescimento intelectual.",
+        "Sua visão gera oportunidades.",
+        "As conexões expandem os horizontes.",
+        "O pensamento original traz reconhecimento.",
+        "Estratégias com visão de futuro definem o sucesso."
+      ],
+      "theme": [
+        "Independência, despertar e progresso visionário.",
+        "Crescimento pessoal por meio da inovação.",
+        "Contribuição social.",
+        "Expansão intelectual.",
+        "Colaboração.",
+        "Liderança criativa."
+      ],
+      "event": [
+        "Você inspira outras pessoas ao se libertar das convenções.",
+        "Surge uma grande oportunidade inovadora.",
+        "Os esforços de colaboração levam ao sucesso.",
+        "O reconhecimento vem pela originalidade.",
+        "As conexões criam avanços.",
+        "As buscas intelectuais geram resultados."
+      ],
+      "advice": [
+        "Lidere pelo exemplo; mude o mundo silenciosamente, mas sem medo.",
+        "Abrace a originalidade.",
+        "Confie em suas ideias.",
+        "Explore novos caminhos.",
+        "Mantenha-se conectado.",
+        "Pense no futuro."
+      ]
+    }
+  },
+  "pisces": {
+    "vibe": [
+      "Sonhador e empático",
+      "Intuitivo e imaginativo",
+      "Compassivo e gentil",
+      "Artístico e espiritual",
+      "Reflexivo e sensível"
+    ],
+    "emoji": [
+      "🐟",
+      "🌊",
+      "💫",
+      "🌙",
+      "🦋"
+    ],
+    "keywords": {
+      "love_and_emotions": [
+        "empatia",
+        "devoção",
+        "romance"
+      ],
+      "career_and_success": [
+        "criatividade",
+        "intuição",
+        "estratégia"
+      ],
+      "spiritual_and_mystical": [
+        "intuição",
+        "reflexão",
+        "despertar"
+      ],
+      "luck_and_opportunity": [
+        "serendipidade",
+        "oportunidade",
+        "benefício"
+      ],
+      "health_and_wellbeing": [
+        "paz",
+        "equilíbrio",
+        "clareza"
+      ],
+      "adventure_and_growth": [
+        "exploração",
+        "aprendizado",
+        "adaptação"
+      ]
+    },
+    "lucky_colors": [
+      "Verde-mar",
+      "Lilás",
+      "Água",
+      "Lavanda",
+      "Azul suave"
+    ],
+    "lucky_numbers": [
+      3,
+      9,
+      12,
+      21,
+      30
+    ],
+    "daily": {
+      "tone": [
+        "Sua sensibilidade se torna um ponto forte; você sente profundamente e vê com clareza.",
+        "A criatividade flui sem esforço quando você segue sua intuição.",
+        "Um momento tranquilo hoje traz uma inspiração profunda.",
+        "A intuição orienta suas decisões hoje.",
+        "A compaixão molda suas interações.",
+        "A criatividade gera inspiração."
+      ],
+      "theme": [
+        "Cura emocional e renovação criativa.",
+        "Decisões intuitivas e conexão sincera.",
+        "Encontrar beleza na simplicidade.",
+        "Empatia e cuidado.",
+        "Expressão artística.",
+        "Percepção espiritual."
+      ],
+      "event": [
+        "Você recebe um sinal que confirma um sonho ou um pressentimento.",
+        "Um pequeno ato de bondade muda todo o seu humor.",
+        "Uma faísca criativa leva a uma realização inesperada.",
+        "Surge uma chance de ajudar alguém.",
+        "Uma ideia imaginativa inspira a ação.",
+        "Um momento de reflexão traz clareza."
+      ],
+      "advice": [
+        "Flua com a emoção, mas não se afogue nela.",
+        "Seus sonhos são mensagens; escreva-os.",
+        "Permita que a compaixão guie suas escolhas hoje.",
+        "Confie em sua intuição.",
+        "Abrace a criatividade.",
+        "Demonstre compaixão."
+      ]
+    },
+    "tomorrow": {
+      "tone": [
+        "O amanhã traz clareza às situações emocionais.",
+        "Sua intuição destaca uma oportunidade importante.",
+        "A compaixão orienta uma decisão que afeta os outros de forma positiva.",
+        "Uma faísca criativa amanhã pode levar à realização.",
+        "A reflexão permite a percepção de um desafio pessoal."
+      ],
+      "theme": [
+        "Preparação para o crescimento emocional ou criativo.",
+        "Usar a intuição para orientar as escolhas.",
+        "Conectar-se com outras pessoas por meio da empatia.",
+        "Descobrindo inspiração em pequenos momentos.",
+        "Insight e reflexão pessoal."
+      ],
+      "event": [
+        "Uma ideia ou sonho sinaliza um caminho a seguir.",
+        "Alguém demonstra gratidão por seu apoio.",
+        "Surge uma chance de ajudar ou inspirar.",
+        "A energia criativa leva a resultados tangíveis.",
+        "Uma reflexão tranquila revela clareza."
+      ],
+      "advice": [
+        "Confie em seus sentimentos e em sua intuição.",
+        "Observe os pequenos sinais; eles contêm grandes mensagens.",
+        "Permita que a criatividade flua sem julgamentos.",
+        "Conectar-se empaticamente com os outros.",
+        "Reserve um tempo para refletir antes de agir."
+      ]
+    },
+    "weekly": {
+      "tone": [
+        "Esta semana aprofunda sua consciência emocional e sua sabedoria interior.",
+        "Sua imaginação é o seu mapa; confie onde ela o leva.",
+        "Esta semana destaca a intuição e a empatia.",
+        "A energia criativa inspira soluções.",
+        "A percepção espiritual orienta as escolhas.",
+        "A compaixão promove a conexão.",
+        "Os sonhos e a imaginação influenciam a realidade."
+      ],
+      "theme": [
+        "Renovação espiritual e clareza emocional.",
+        "Inspiração por meio da arte, do amor e da empatia.",
+        "Crescimento pessoal.",
+        "Expressão artística.",
+        "Espiritualidade.",
+        "Empatia.",
+        "Criatividade."
+      ],
+      "event": [
+        "Um sonho revela uma orientação oculta.",
+        "Alguém confia em você, fortalecendo a confiança.",
+        "Surge uma oportunidade de ajudar os outros.",
+        "Desenvolve-se um projeto criativo.",
+        "O insight intuitivo resolve um desafio.",
+        "A conexão com os outros se aprofunda.",
+        "Os momentos de reflexão trazem compreensão."
+      ],
+      "advice": [
+        "Descanse quando seu espírito estiver pesado; você se recarrega com a quietude.",
+        "Os limites protegem a beleza de sua empatia.",
+        "Confie em seus instintos.",
+        "Cultive sua criatividade.",
+        "Foco na inteligência emocional.",
+        "Conecte-se de forma empática.",
+        "Reflita com frequência."
+      ]
+    },
+    "monthly": {
+      "tone": [
+        "Esse mês restaura sua criatividade e seu senso de paz interior.",
+        "Esse mês incentiva a imaginação e a intuição.",
+        "A compaixão orienta as decisões.",
+        "As atividades criativas prosperam.",
+        "A consciência espiritual se aprofunda.",
+        "A empatia melhora os relacionamentos."
+      ],
+      "theme": [
+        "Cura, arte e evolução emocional.",
+        "Crescimento artístico e espiritual.",
+        "Empatia.",
+        "Inspiração criativa.",
+        "Percepção pessoal.",
+        "Conexão."
+      ],
+      "event": [
+        "Uma conversa profunda libera a liberdade emocional.",
+        "Surge uma oportunidade criativa.",
+        "Um ato de compaixão fortalece os laços.",
+        "O insight espiritual oferece orientação.",
+        "As ideias imaginativas florescem.",
+        "As conexões enriquecem as experiências."
+      ],
+      "advice": [
+        "Cuide do que parece frágil; o amor cresce silenciosa mas seguramente.",
+        "Confie na intuição.",
+        "Expresse sua criatividade.",
+        "Priorizar a empatia.",
+        "Busque clareza espiritual.",
+        "Cultivar relacionamentos."
+      ]
+    },
+    "annual": {
+      "tone": [
+        "Este ano desperta sua intuição e ameniza velhos medos.",
+        "Este ano enfatiza a intuição, a criatividade e a compaixão.",
+        "O crescimento espiritual molda as experiências.",
+        "A expressão artística traz reconhecimento.",
+        "A empatia orienta as interações pessoais e profissionais.",
+        "O insight imaginativo cria oportunidades."
+      ],
+      "theme": [
+        "Clareza espiritual, compaixão e renascimento.",
+        "Crescimento pessoal e espiritual.",
+        "Criatividade.",
+        "Empatia e compaixão.",
+        "Realizações artísticas.",
+        "Progresso orientado pela intuição."
+      ],
+      "event": [
+        "Você encontra paz ao confiar no ritmo da vida em vez de resistir a ele.",
+        "Ocorre um marco criativo ou espiritual.",
+        "Uma oportunidade surge por meio da compaixão.",
+        "O reconhecimento pelo trabalho imaginativo chega.",
+        "O crescimento pessoal é evidente.",
+        "As conexões se aprofundam de forma significativa."
+      ],
+      "advice": [
+        "Deixe o controle de lado; os milagres precisam de espaço para acontecer.",
+        "Confie em sua intuição.",
+        "Expresse sua criatividade plenamente.",
+        "Cultive a empatia.",
+        "Foco no crescimento pessoal.",
+        "Abrace a orientação espiritual."
+      ]
+    }
+  }
+}
