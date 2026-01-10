@@ -1,4 +1,4 @@
-const recapTitles = {
+{
   EN: [
     { title: "Most chaotic viewer", emoji: "⚡" },
     { title: "Biggest troll of 2025", emoji: "😈" },
